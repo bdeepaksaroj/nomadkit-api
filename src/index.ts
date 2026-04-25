@@ -1,12 +1,13 @@
+import dotenv from 'dotenv'
+dotenv.config()
+
 import express from 'express'
 import cors from 'cors'
 import helmet from 'helmet'
 import morgan from 'morgan'
 import cookieParser from 'cookie-parser'
-import dotenv from 'dotenv'
 import { connectDB } from './lib/mongodb'
-
-dotenv.config()
+import authRoutes from './routes/auth'
 
 const app = express()
 const PORT = process.env.PORT || 5000
@@ -19,6 +20,8 @@ app.use(cors({
 app.use(morgan('dev'))
 app.use(express.json())
 app.use(cookieParser())
+
+app.use('/api/auth', authRoutes)
 
 app.get('/health', (req, res) => {
   res.json({
