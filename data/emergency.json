@@ -1,0 +1,1750 @@
+{
+  "countries": [
+    {
+      "name": "Afghanistan",
+      "code": "AF",
+      "flag": "🇦🇫",
+      "police": "119",
+      "ambulance": "112",
+      "fire": "119",
+      "tourist": "119"
+    },
+    {
+      "name": "Albania",
+      "code": "AL",
+      "flag": "🇦🇱",
+      "police": "129",
+      "ambulance": "127",
+      "fire": "128",
+      "tourist": "129"
+    },
+    {
+      "name": "Algeria",
+      "code": "DZ",
+      "flag": "🇩🇿",
+      "police": "17",
+      "ambulance": "14",
+      "fire": "14",
+      "tourist": "17"
+    },
+    {
+      "name": "Andorra",
+      "code": "AD",
+      "flag": "🇦🇩",
+      "police": "110",
+      "ambulance": "118",
+      "fire": "118",
+      "tourist": "110"
+    },
+    {
+      "name": "Angola",
+      "code": "AO",
+      "flag": "🇦🇴",
+      "police": "113",
+      "ambulance": "112",
+      "fire": "115",
+      "tourist": "113"
+    },
+    {
+      "name": "Antigua and Barbuda",
+      "code": "AG",
+      "flag": "🇦🇬",
+      "police": "911",
+      "ambulance": "911",
+      "fire": "911",
+      "tourist": "911"
+    },
+    {
+      "name": "Argentina",
+      "code": "AR",
+      "flag": "🇦🇷",
+      "police": "911",
+      "ambulance": "107",
+      "fire": "100",
+      "tourist": "0800-999-2838"
+    },
+    {
+      "name": "Armenia",
+      "code": "AM",
+      "flag": "🇦🇲",
+      "police": "102",
+      "ambulance": "103",
+      "fire": "101",
+      "tourist": "102"
+    },
+    {
+      "name": "Australia",
+      "code": "AU",
+      "flag": "🇦🇺",
+      "police": "000",
+      "ambulance": "000",
+      "fire": "000",
+      "tourist": "1300-363-992"
+    },
+    {
+      "name": "Austria",
+      "code": "AT",
+      "flag": "🇦🇹",
+      "police": "133",
+      "ambulance": "144",
+      "fire": "122",
+      "tourist": "133"
+    },
+    {
+      "name": "Azerbaijan",
+      "code": "AZ",
+      "flag": "🇦🇿",
+      "police": "102",
+      "ambulance": "103",
+      "fire": "101",
+      "tourist": "102"
+    },
+    {
+      "name": "Bahamas",
+      "code": "BS",
+      "flag": "🇧🇸",
+      "police": "919",
+      "ambulance": "919",
+      "fire": "919",
+      "tourist": "919"
+    },
+    {
+      "name": "Bahrain",
+      "code": "BH",
+      "flag": "🇧🇭",
+      "police": "999",
+      "ambulance": "999",
+      "fire": "999",
+      "tourist": "999"
+    },
+    {
+      "name": "Bangladesh",
+      "code": "BD",
+      "flag": "🇧🇩",
+      "police": "999",
+      "ambulance": "199",
+      "fire": "199",
+      "tourist": "999"
+    },
+    {
+      "name": "Barbados",
+      "code": "BB",
+      "flag": "🇧🇧",
+      "police": "211",
+      "ambulance": "511",
+      "fire": "311",
+      "tourist": "211"
+    },
+    {
+      "name": "Belarus",
+      "code": "BY",
+      "flag": "🇧🇾",
+      "police": "102",
+      "ambulance": "103",
+      "fire": "101",
+      "tourist": "102"
+    },
+    {
+      "name": "Belgium",
+      "code": "BE",
+      "flag": "🇧🇪",
+      "police": "101",
+      "ambulance": "100",
+      "fire": "100",
+      "tourist": "101"
+    },
+    {
+      "name": "Belize",
+      "code": "BZ",
+      "flag": "🇧🇿",
+      "police": "911",
+      "ambulance": "911",
+      "fire": "911",
+      "tourist": "911"
+    },
+    {
+      "name": "Benin",
+      "code": "BJ",
+      "flag": "🇧🇯",
+      "police": "117",
+      "ambulance": "112",
+      "fire": "118",
+      "tourist": "117"
+    },
+    {
+      "name": "Bhutan",
+      "code": "BT",
+      "flag": "🇧🇹",
+      "police": "113",
+      "ambulance": "112",
+      "fire": "110",
+      "tourist": "113"
+    },
+    {
+      "name": "Bolivia",
+      "code": "BO",
+      "flag": "🇧🇴",
+      "police": "110",
+      "ambulance": "118",
+      "fire": "119",
+      "tourist": "800-10-0900"
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "code": "BA",
+      "flag": "🇧🇦",
+      "police": "122",
+      "ambulance": "124",
+      "fire": "123",
+      "tourist": "122"
+    },
+    {
+      "name": "Botswana",
+      "code": "BW",
+      "flag": "🇧🇼",
+      "police": "999",
+      "ambulance": "997",
+      "fire": "998",
+      "tourist": "999"
+    },
+    {
+      "name": "Brazil",
+      "code": "BR",
+      "flag": "🇧🇷",
+      "police": "190",
+      "ambulance": "192",
+      "fire": "193",
+      "tourist": "0800-023-1313"
+    },
+    {
+      "name": "Brunei",
+      "code": "BN",
+      "flag": "🇧🇳",
+      "police": "993",
+      "ambulance": "991",
+      "fire": "995",
+      "tourist": "993"
+    },
+    {
+      "name": "Bulgaria",
+      "code": "BG",
+      "flag": "🇧🇬",
+      "police": "166",
+      "ambulance": "150",
+      "fire": "160",
+      "tourist": "166"
+    },
+    {
+      "name": "Burkina Faso",
+      "code": "BF",
+      "flag": "🇧🇫",
+      "police": "17",
+      "ambulance": "112",
+      "fire": "18",
+      "tourist": "17"
+    },
+    {
+      "name": "Burundi",
+      "code": "BI",
+      "flag": "🇧🇮",
+      "police": "117",
+      "ambulance": "112",
+      "fire": "118",
+      "tourist": "117"
+    },
+    {
+      "name": "Cabo Verde",
+      "code": "CV",
+      "flag": "🇨🇻",
+      "police": "132",
+      "ambulance": "130",
+      "fire": "131",
+      "tourist": "132"
+    },
+    {
+      "name": "Cambodia",
+      "code": "KH",
+      "flag": "🇰🇭",
+      "police": "117",
+      "ambulance": "119",
+      "fire": "118",
+      "tourist": "1800-212-887"
+    },
+    {
+      "name": "Cameroon",
+      "code": "CM",
+      "flag": "🇨🇲",
+      "police": "117",
+      "ambulance": "112",
+      "fire": "118",
+      "tourist": "117"
+    },
+    {
+      "name": "Canada",
+      "code": "CA",
+      "flag": "🇨🇦",
+      "police": "911",
+      "ambulance": "911",
+      "fire": "911",
+      "tourist": "1-800-267-6788"
+    },
+    {
+      "name": "Central African Republic",
+      "code": "CF",
+      "flag": "🇨🇫",
+      "police": "117",
+      "ambulance": "112",
+      "fire": "118",
+      "tourist": "117"
+    },
+    {
+      "name": "Chad",
+      "code": "TD",
+      "flag": "🇹🇩",
+      "police": "17",
+      "ambulance": "2251-4242",
+      "fire": "18",
+      "tourist": "17"
+    },
+    {
+      "name": "Chile",
+      "code": "CL",
+      "flag": "🇨🇱",
+      "police": "133",
+      "ambulance": "131",
+      "fire": "132",
+      "tourist": "800-200-100"
+    },
+    {
+      "name": "China",
+      "code": "CN",
+      "flag": "🇨🇳",
+      "police": "110",
+      "ambulance": "120",
+      "fire": "119",
+      "tourist": "010-65237788"
+    },
+    {
+      "name": "Colombia",
+      "code": "CO",
+      "flag": "🇨🇴",
+      "police": "112",
+      "ambulance": "132",
+      "fire": "119",
+      "tourist": "018000-91-0010"
+    },
+    {
+      "name": "Comoros",
+      "code": "KM",
+      "flag": "🇰🇲",
+      "police": "17",
+      "ambulance": "112",
+      "fire": "18",
+      "tourist": "17"
+    },
+    {
+      "name": "Costa Rica",
+      "code": "CR",
+      "flag": "🇨🇷",
+      "police": "911",
+      "ambulance": "911",
+      "fire": "911",
+      "tourist": "1800-TOURISM"
+    },
+    {
+      "name": "Croatia",
+      "code": "HR",
+      "flag": "🇭🇷",
+      "police": "192",
+      "ambulance": "194",
+      "fire": "193",
+      "tourist": "192"
+    },
+    {
+      "name": "Cuba",
+      "code": "CU",
+      "flag": "🇨🇺",
+      "police": "106",
+      "ambulance": "104",
+      "fire": "105",
+      "tourist": "106"
+    },
+    {
+      "name": "Cyprus",
+      "code": "CY",
+      "flag": "🇨🇾",
+      "police": "112",
+      "ambulance": "112",
+      "fire": "112",
+      "tourist": "112"
+    },
+    {
+      "name": "Czech Republic",
+      "code": "CZ",
+      "flag": "🇨🇿",
+      "police": "158",
+      "ambulance": "155",
+      "fire": "150",
+      "tourist": "158"
+    },
+    {
+      "name": "Denmark",
+      "code": "DK",
+      "flag": "🇩🇰",
+      "police": "112",
+      "ambulance": "112",
+      "fire": "112",
+      "tourist": "112"
+    },
+    {
+      "name": "Djibouti",
+      "code": "DJ",
+      "flag": "🇩🇯",
+      "police": "17",
+      "ambulance": "15",
+      "fire": "18",
+      "tourist": "17"
+    },
+    {
+      "name": "Dominica",
+      "code": "DM",
+      "flag": "🇩🇲",
+      "police": "999",
+      "ambulance": "999",
+      "fire": "999",
+      "tourist": "999"
+    },
+    {
+      "name": "Dominican Republic",
+      "code": "DO",
+      "flag": "🇩🇴",
+      "police": "911",
+      "ambulance": "911",
+      "fire": "911",
+      "tourist": "1-800-200-3500"
+    },
+    {
+      "name": "Ecuador",
+      "code": "EC",
+      "flag": "🇪🇨",
+      "police": "911",
+      "ambulance": "911",
+      "fire": "911",
+      "tourist": "1800-287-837"
+    },
+    {
+      "name": "Egypt",
+      "code": "EG",
+      "flag": "🇪🇬",
+      "police": "122",
+      "ambulance": "123",
+      "fire": "180",
+      "tourist": "126"
+    },
+    {
+      "name": "El Salvador",
+      "code": "SV",
+      "flag": "🇸🇻",
+      "police": "911",
+      "ambulance": "132",
+      "fire": "913",
+      "tourist": "911"
+    },
+    {
+      "name": "Equatorial Guinea",
+      "code": "GQ",
+      "flag": "🇬🇶",
+      "police": "114",
+      "ambulance": "112",
+      "fire": "115",
+      "tourist": "114"
+    },
+    {
+      "name": "Eritrea",
+      "code": "ER",
+      "flag": "🇪🇷",
+      "police": "113",
+      "ambulance": "114",
+      "fire": "115",
+      "tourist": "113"
+    },
+    {
+      "name": "Estonia",
+      "code": "EE",
+      "flag": "🇪🇪",
+      "police": "112",
+      "ambulance": "112",
+      "fire": "112",
+      "tourist": "112"
+    },
+    {
+      "name": "Eswatini",
+      "code": "SZ",
+      "flag": "🇸🇿",
+      "police": "999",
+      "ambulance": "977",
+      "fire": "933",
+      "tourist": "999"
+    },
+    {
+      "name": "Ethiopia",
+      "code": "ET",
+      "flag": "🇪🇹",
+      "police": "991",
+      "ambulance": "907",
+      "fire": "939",
+      "tourist": "991"
+    },
+    {
+      "name": "Fiji",
+      "code": "FJ",
+      "flag": "🇫🇯",
+      "police": "917",
+      "ambulance": "911",
+      "fire": "910",
+      "tourist": "917"
+    },
+    {
+      "name": "Finland",
+      "code": "FI",
+      "flag": "🇫🇮",
+      "police": "112",
+      "ambulance": "112",
+      "fire": "112",
+      "tourist": "112"
+    },
+    {
+      "name": "France",
+      "code": "FR",
+      "flag": "🇫🇷",
+      "police": "17",
+      "ambulance": "15",
+      "fire": "18",
+      "tourist": "3975"
+    },
+    {
+      "name": "Gabon",
+      "code": "GA",
+      "flag": "🇬🇦",
+      "police": "1730",
+      "ambulance": "1300",
+      "fire": "18",
+      "tourist": "1730"
+    },
+    {
+      "name": "Gambia",
+      "code": "GM",
+      "flag": "🇬🇲",
+      "police": "117",
+      "ambulance": "116",
+      "fire": "118",
+      "tourist": "117"
+    },
+    {
+      "name": "Georgia",
+      "code": "GE",
+      "flag": "🇬🇪",
+      "police": "112",
+      "ambulance": "112",
+      "fire": "112",
+      "tourist": "112"
+    },
+    {
+      "name": "Germany",
+      "code": "DE",
+      "flag": "🇩🇪",
+      "police": "110",
+      "ambulance": "112",
+      "fire": "112",
+      "tourist": "030-250025"
+    },
+    {
+      "name": "Ghana",
+      "code": "GH",
+      "flag": "🇬🇭",
+      "police": "191",
+      "ambulance": "193",
+      "fire": "192",
+      "tourist": "0800-111-222"
+    },
+    {
+      "name": "Greece",
+      "code": "GR",
+      "flag": "🇬🇷",
+      "police": "100",
+      "ambulance": "166",
+      "fire": "199",
+      "tourist": "171"
+    },
+    {
+      "name": "Grenada",
+      "code": "GD",
+      "flag": "🇬🇩",
+      "police": "911",
+      "ambulance": "434",
+      "fire": "911",
+      "tourist": "911"
+    },
+    {
+      "name": "Guatemala",
+      "code": "GT",
+      "flag": "🇬🇹",
+      "police": "110",
+      "ambulance": "128",
+      "fire": "122",
+      "tourist": "1500"
+    },
+    {
+      "name": "Guinea",
+      "code": "GN",
+      "flag": "🇬🇳",
+      "police": "117",
+      "ambulance": "112",
+      "fire": "118",
+      "tourist": "117"
+    },
+    {
+      "name": "Guinea-Bissau",
+      "code": "GW",
+      "flag": "🇬🇼",
+      "police": "117",
+      "ambulance": "112",
+      "fire": "118",
+      "tourist": "117"
+    },
+    {
+      "name": "Guyana",
+      "code": "GY",
+      "flag": "🇬🇾",
+      "police": "911",
+      "ambulance": "913",
+      "fire": "912",
+      "tourist": "911"
+    },
+    {
+      "name": "Haiti",
+      "code": "HT",
+      "flag": "🇭🇹",
+      "police": "114",
+      "ambulance": "115",
+      "fire": "116",
+      "tourist": "114"
+    },
+    {
+      "name": "Honduras",
+      "code": "HN",
+      "flag": "🇭🇳",
+      "police": "911",
+      "ambulance": "195",
+      "fire": "198",
+      "tourist": "911"
+    },
+    {
+      "name": "Hungary",
+      "code": "HU",
+      "flag": "🇭🇺",
+      "police": "107",
+      "ambulance": "104",
+      "fire": "105",
+      "tourist": "438-8080"
+    },
+    {
+      "name": "Iceland",
+      "code": "IS",
+      "flag": "🇮🇸",
+      "police": "112",
+      "ambulance": "112",
+      "fire": "112",
+      "tourist": "112"
+    },
+    {
+      "name": "India",
+      "code": "IN",
+      "flag": "🇮🇳",
+      "police": "100",
+      "ambulance": "102",
+      "fire": "101",
+      "tourist": "1800-11-1363"
+    },
+    {
+      "name": "Indonesia",
+      "code": "ID",
+      "flag": "🇮🇩",
+      "police": "110",
+      "ambulance": "118",
+      "fire": "113",
+      "tourist": "1500-334"
+    },
+    {
+      "name": "Iran",
+      "code": "IR",
+      "flag": "🇮🇷",
+      "police": "110",
+      "ambulance": "115",
+      "fire": "125",
+      "tourist": "110"
+    },
+    {
+      "name": "Iraq",
+      "code": "IQ",
+      "flag": "🇮🇶",
+      "police": "104",
+      "ambulance": "122",
+      "fire": "115",
+      "tourist": "104"
+    },
+    {
+      "name": "Ireland",
+      "code": "IE",
+      "flag": "🇮🇪",
+      "police": "112",
+      "ambulance": "112",
+      "fire": "112",
+      "tourist": "1850-230-330"
+    },
+    {
+      "name": "Israel",
+      "code": "IL",
+      "flag": "🇮🇱",
+      "police": "100",
+      "ambulance": "101",
+      "fire": "102",
+      "tourist": "1-700-70-6666"
+    },
+    {
+      "name": "Italy",
+      "code": "IT",
+      "flag": "🇮🇹",
+      "police": "113",
+      "ambulance": "118",
+      "fire": "115",
+      "tourist": "06-4674-2862"
+    },
+    {
+      "name": "Jamaica",
+      "code": "JM",
+      "flag": "🇯🇲",
+      "police": "119",
+      "ambulance": "110",
+      "fire": "110",
+      "tourist": "119"
+    },
+    {
+      "name": "Japan",
+      "code": "JP",
+      "flag": "🇯🇵",
+      "police": "110",
+      "ambulance": "119",
+      "fire": "119",
+      "tourist": "03-3501-0110"
+    },
+    {
+      "name": "Jordan",
+      "code": "JO",
+      "flag": "🇯🇴",
+      "police": "911",
+      "ambulance": "911",
+      "fire": "911",
+      "tourist": "911"
+    },
+    {
+      "name": "Kazakhstan",
+      "code": "KZ",
+      "flag": "🇰🇿",
+      "police": "102",
+      "ambulance": "103",
+      "fire": "101",
+      "tourist": "102"
+    },
+    {
+      "name": "Kenya",
+      "code": "KE",
+      "flag": "🇰🇪",
+      "police": "999",
+      "ambulance": "999",
+      "fire": "999",
+      "tourist": "0800-221-199"
+    },
+    {
+      "name": "Kiribati",
+      "code": "KI",
+      "flag": "🇰🇮",
+      "police": "992",
+      "ambulance": "994",
+      "fire": "993",
+      "tourist": "992"
+    },
+    {
+      "name": "North Korea",
+      "code": "KP",
+      "flag": "🇰🇵",
+      "police": "112",
+      "ambulance": "112",
+      "fire": "119",
+      "tourist": "112"
+    },
+    {
+      "name": "South Korea",
+      "code": "KR",
+      "flag": "🇰🇷",
+      "police": "112",
+      "ambulance": "119",
+      "fire": "119",
+      "tourist": "1330"
+    },
+    {
+      "name": "Kosovo",
+      "code": "XK",
+      "flag": "🇽🇰",
+      "police": "192",
+      "ambulance": "194",
+      "fire": "193",
+      "tourist": "192"
+    },
+    {
+      "name": "Kuwait",
+      "code": "KW",
+      "flag": "🇰🇼",
+      "police": "112",
+      "ambulance": "112",
+      "fire": "112",
+      "tourist": "112"
+    },
+    {
+      "name": "Kyrgyzstan",
+      "code": "KG",
+      "flag": "🇰🇬",
+      "police": "102",
+      "ambulance": "103",
+      "fire": "101",
+      "tourist": "102"
+    },
+    {
+      "name": "Laos",
+      "code": "LA",
+      "flag": "🇱🇦",
+      "police": "191",
+      "ambulance": "195",
+      "fire": "190",
+      "tourist": "021-212-890"
+    },
+    {
+      "name": "Latvia",
+      "code": "LV",
+      "flag": "🇱🇻",
+      "police": "112",
+      "ambulance": "112",
+      "fire": "112",
+      "tourist": "112"
+    },
+    {
+      "name": "Lebanon",
+      "code": "LB",
+      "flag": "🇱🇧",
+      "police": "112",
+      "ambulance": "140",
+      "fire": "175",
+      "tourist": "1735"
+    },
+    {
+      "name": "Lesotho",
+      "code": "LS",
+      "flag": "🇱🇸",
+      "police": "123",
+      "ambulance": "121",
+      "fire": "122",
+      "tourist": "123"
+    },
+    {
+      "name": "Liberia",
+      "code": "LR",
+      "flag": "🇱🇷",
+      "police": "911",
+      "ambulance": "911",
+      "fire": "911",
+      "tourist": "911"
+    },
+    {
+      "name": "Libya",
+      "code": "LY",
+      "flag": "🇱🇾",
+      "police": "1515",
+      "ambulance": "1515",
+      "fire": "1515",
+      "tourist": "1515"
+    },
+    {
+      "name": "Liechtenstein",
+      "code": "LI",
+      "flag": "🇱🇮",
+      "police": "117",
+      "ambulance": "144",
+      "fire": "118",
+      "tourist": "117"
+    },
+    {
+      "name": "Lithuania",
+      "code": "LT",
+      "flag": "🇱🇹",
+      "police": "112",
+      "ambulance": "112",
+      "fire": "112",
+      "tourist": "112"
+    },
+    {
+      "name": "Luxembourg",
+      "code": "LU",
+      "flag": "🇱🇺",
+      "police": "113",
+      "ambulance": "112",
+      "fire": "112",
+      "tourist": "113"
+    },
+    {
+      "name": "Madagascar",
+      "code": "MG",
+      "flag": "🇲🇬",
+      "police": "117",
+      "ambulance": "112",
+      "fire": "118",
+      "tourist": "117"
+    },
+    {
+      "name": "Malawi",
+      "code": "MW",
+      "flag": "🇲🇼",
+      "police": "997",
+      "ambulance": "998",
+      "fire": "999",
+      "tourist": "997"
+    },
+    {
+      "name": "Malaysia",
+      "code": "MY",
+      "flag": "🇲🇾",
+      "police": "999",
+      "ambulance": "999",
+      "fire": "994",
+      "tourist": "1300-88-5050"
+    },
+    {
+      "name": "Maldives",
+      "code": "MV",
+      "flag": "🇲🇻",
+      "police": "119",
+      "ambulance": "102",
+      "fire": "118",
+      "tourist": "119"
+    },
+    {
+      "name": "Mali",
+      "code": "ML",
+      "flag": "🇲🇱",
+      "police": "17",
+      "ambulance": "15",
+      "fire": "18",
+      "tourist": "17"
+    },
+    {
+      "name": "Malta",
+      "code": "MT",
+      "flag": "🇲🇹",
+      "police": "112",
+      "ambulance": "112",
+      "fire": "112",
+      "tourist": "112"
+    },
+    {
+      "name": "Marshall Islands",
+      "code": "MH",
+      "flag": "🇲🇭",
+      "police": "625-8666",
+      "ambulance": "625-8666",
+      "fire": "625-8666",
+      "tourist": "625-8666"
+    },
+    {
+      "name": "Mauritania",
+      "code": "MR",
+      "flag": "🇲🇷",
+      "police": "17",
+      "ambulance": "15",
+      "fire": "18",
+      "tourist": "17"
+    },
+    {
+      "name": "Mauritius",
+      "code": "MU",
+      "flag": "🇲🇺",
+      "police": "999",
+      "ambulance": "114",
+      "fire": "995",
+      "tourist": "152"
+    },
+    {
+      "name": "Mexico",
+      "code": "MX",
+      "flag": "🇲🇽",
+      "police": "911",
+      "ambulance": "911",
+      "fire": "911",
+      "tourist": "078"
+    },
+    {
+      "name": "Micronesia",
+      "code": "FM",
+      "flag": "🇫🇲",
+      "police": "911",
+      "ambulance": "911",
+      "fire": "911",
+      "tourist": "911"
+    },
+    {
+      "name": "Moldova",
+      "code": "MD",
+      "flag": "🇲🇩",
+      "police": "112",
+      "ambulance": "112",
+      "fire": "112",
+      "tourist": "112"
+    },
+    {
+      "name": "Monaco",
+      "code": "MC",
+      "flag": "🇲🇨",
+      "police": "17",
+      "ambulance": "15",
+      "fire": "18",
+      "tourist": "17"
+    },
+    {
+      "name": "Mongolia",
+      "code": "MN",
+      "flag": "🇲🇳",
+      "police": "102",
+      "ambulance": "103",
+      "fire": "101",
+      "tourist": "1800-1234"
+    },
+    {
+      "name": "Montenegro",
+      "code": "ME",
+      "flag": "🇲🇪",
+      "police": "122",
+      "ambulance": "124",
+      "fire": "123",
+      "tourist": "122"
+    },
+    {
+      "name": "Morocco",
+      "code": "MA",
+      "flag": "🇲🇦",
+      "police": "19",
+      "ambulance": "15",
+      "fire": "15",
+      "tourist": "0801-00-22-22"
+    },
+    {
+      "name": "Mozambique",
+      "code": "MZ",
+      "flag": "🇲🇿",
+      "police": "119",
+      "ambulance": "117",
+      "fire": "198",
+      "tourist": "119"
+    },
+    {
+      "name": "Myanmar",
+      "code": "MM",
+      "flag": "🇲🇲",
+      "police": "199",
+      "ambulance": "192",
+      "fire": "191",
+      "tourist": "199"
+    },
+    {
+      "name": "Namibia",
+      "code": "NA",
+      "flag": "🇳🇦",
+      "police": "10111",
+      "ambulance": "112",
+      "fire": "112",
+      "tourist": "10111"
+    },
+    {
+      "name": "Nauru",
+      "code": "NR",
+      "flag": "🇳🇷",
+      "police": "110",
+      "ambulance": "111",
+      "fire": "112",
+      "tourist": "110"
+    },
+    {
+      "name": "Nepal",
+      "code": "NP",
+      "flag": "🇳🇵",
+      "police": "100",
+      "ambulance": "102",
+      "fire": "101",
+      "tourist": "1144"
+    },
+    {
+      "name": "Netherlands",
+      "code": "NL",
+      "flag": "🇳🇱",
+      "police": "112",
+      "ambulance": "112",
+      "fire": "112",
+      "tourist": "0900-8844"
+    },
+    {
+      "name": "New Zealand",
+      "code": "NZ",
+      "flag": "🇳🇿",
+      "police": "111",
+      "ambulance": "111",
+      "fire": "111",
+      "tourist": "111"
+    },
+    {
+      "name": "Nicaragua",
+      "code": "NI",
+      "flag": "🇳🇮",
+      "police": "118",
+      "ambulance": "128",
+      "fire": "115",
+      "tourist": "118"
+    },
+    {
+      "name": "Niger",
+      "code": "NE",
+      "flag": "🇳🇪",
+      "police": "17",
+      "ambulance": "15",
+      "fire": "18",
+      "tourist": "17"
+    },
+    {
+      "name": "Nigeria",
+      "code": "NG",
+      "flag": "🇳🇬",
+      "police": "199",
+      "ambulance": "199",
+      "fire": "199",
+      "tourist": "0800-TOURISM"
+    },
+    {
+      "name": "North Macedonia",
+      "code": "MK",
+      "flag": "🇲🇰",
+      "police": "192",
+      "ambulance": "194",
+      "fire": "193",
+      "tourist": "192"
+    },
+    {
+      "name": "Norway",
+      "code": "NO",
+      "flag": "🇳🇴",
+      "police": "112",
+      "ambulance": "113",
+      "fire": "110",
+      "tourist": "112"
+    },
+    {
+      "name": "Oman",
+      "code": "OM",
+      "flag": "🇴🇲",
+      "police": "9999",
+      "ambulance": "9999",
+      "fire": "9999",
+      "tourist": "9999"
+    },
+    {
+      "name": "Pakistan",
+      "code": "PK",
+      "flag": "🇵🇰",
+      "police": "15",
+      "ambulance": "1122",
+      "fire": "16",
+      "tourist": "051-9272185"
+    },
+    {
+      "name": "Palau",
+      "code": "PW",
+      "flag": "🇵🇼",
+      "police": "911",
+      "ambulance": "911",
+      "fire": "911",
+      "tourist": "911"
+    },
+    {
+      "name": "Palestine",
+      "code": "PS",
+      "flag": "🇵🇸",
+      "police": "100",
+      "ambulance": "101",
+      "fire": "102",
+      "tourist": "100"
+    },
+    {
+      "name": "Panama",
+      "code": "PA",
+      "flag": "🇵🇦",
+      "police": "104",
+      "ambulance": "911",
+      "fire": "103",
+      "tourist": "1800-4PANAMA"
+    },
+    {
+      "name": "Papua New Guinea",
+      "code": "PG",
+      "flag": "🇵🇬",
+      "police": "000",
+      "ambulance": "111",
+      "fire": "110",
+      "tourist": "000"
+    },
+    {
+      "name": "Paraguay",
+      "code": "PY",
+      "flag": "🇵🇾",
+      "police": "911",
+      "ambulance": "911",
+      "fire": "911",
+      "tourist": "911"
+    },
+    {
+      "name": "Peru",
+      "code": "PE",
+      "flag": "🇵🇪",
+      "police": "105",
+      "ambulance": "106",
+      "fire": "116",
+      "tourist": "0800-4-2579"
+    },
+    {
+      "name": "Philippines",
+      "code": "PH",
+      "flag": "🇵🇭",
+      "police": "911",
+      "ambulance": "911",
+      "fire": "911",
+      "tourist": "1-800-1888-5678"
+    },
+    {
+      "name": "Poland",
+      "code": "PL",
+      "flag": "🇵🇱",
+      "police": "112",
+      "ambulance": "112",
+      "fire": "112",
+      "tourist": "112"
+    },
+    {
+      "name": "Portugal",
+      "code": "PT",
+      "flag": "🇵🇹",
+      "police": "112",
+      "ambulance": "112",
+      "fire": "112",
+      "tourist": "808-781-212"
+    },
+    {
+      "name": "Qatar",
+      "code": "QA",
+      "flag": "🇶🇦",
+      "police": "999",
+      "ambulance": "999",
+      "fire": "999",
+      "tourist": "999"
+    },
+    {
+      "name": "Romania",
+      "code": "RO",
+      "flag": "🇷🇴",
+      "police": "112",
+      "ambulance": "112",
+      "fire": "112",
+      "tourist": "112"
+    },
+    {
+      "name": "Russia",
+      "code": "RU",
+      "flag": "🇷🇺",
+      "police": "102",
+      "ambulance": "103",
+      "fire": "101",
+      "tourist": "112"
+    },
+    {
+      "name": "Rwanda",
+      "code": "RW",
+      "flag": "🇷🇼",
+      "police": "112",
+      "ambulance": "912",
+      "fire": "111",
+      "tourist": "112"
+    },
+    {
+      "name": "Saint Kitts and Nevis",
+      "code": "KN",
+      "flag": "🇰🇳",
+      "police": "911",
+      "ambulance": "911",
+      "fire": "911",
+      "tourist": "911"
+    },
+    {
+      "name": "Saint Lucia",
+      "code": "LC",
+      "flag": "🇱🇨",
+      "police": "911",
+      "ambulance": "911",
+      "fire": "911",
+      "tourist": "911"
+    },
+    {
+      "name": "Saint Vincent and the Grenadines",
+      "code": "VC",
+      "flag": "🇻🇨",
+      "police": "911",
+      "ambulance": "911",
+      "fire": "911",
+      "tourist": "911"
+    },
+    {
+      "name": "Samoa",
+      "code": "WS",
+      "flag": "🇼🇸",
+      "police": "995",
+      "ambulance": "996",
+      "fire": "994",
+      "tourist": "995"
+    },
+    {
+      "name": "San Marino",
+      "code": "SM",
+      "flag": "🇸🇲",
+      "police": "113",
+      "ambulance": "118",
+      "fire": "115",
+      "tourist": "113"
+    },
+    {
+      "name": "Sao Tome and Principe",
+      "code": "ST",
+      "flag": "🇸🇹",
+      "police": "113",
+      "ambulance": "112",
+      "fire": "113",
+      "tourist": "113"
+    },
+    {
+      "name": "Saudi Arabia",
+      "code": "SA",
+      "flag": "🇸🇦",
+      "police": "999",
+      "ambulance": "997",
+      "fire": "998",
+      "tourist": "920000814"
+    },
+    {
+      "name": "Senegal",
+      "code": "SN",
+      "flag": "🇸🇳",
+      "police": "17",
+      "ambulance": "15",
+      "fire": "18",
+      "tourist": "33-869-6969"
+    },
+    {
+      "name": "Serbia",
+      "code": "RS",
+      "flag": "🇷🇸",
+      "police": "192",
+      "ambulance": "194",
+      "fire": "193",
+      "tourist": "192"
+    },
+    {
+      "name": "Seychelles",
+      "code": "SC",
+      "flag": "🇸🇨",
+      "police": "999",
+      "ambulance": "151",
+      "fire": "999",
+      "tourist": "999"
+    },
+    {
+      "name": "Sierra Leone",
+      "code": "SL",
+      "flag": "🇸🇱",
+      "police": "999",
+      "ambulance": "999",
+      "fire": "999",
+      "tourist": "999"
+    },
+    {
+      "name": "Singapore",
+      "code": "SG",
+      "flag": "🇸🇬",
+      "police": "999",
+      "ambulance": "995",
+      "fire": "995",
+      "tourist": "1800-736-2000"
+    },
+    {
+      "name": "Slovakia",
+      "code": "SK",
+      "flag": "🇸🇰",
+      "police": "112",
+      "ambulance": "112",
+      "fire": "112",
+      "tourist": "112"
+    },
+    {
+      "name": "Slovenia",
+      "code": "SI",
+      "flag": "🇸🇮",
+      "police": "112",
+      "ambulance": "112",
+      "fire": "112",
+      "tourist": "112"
+    },
+    {
+      "name": "Solomon Islands",
+      "code": "SB",
+      "flag": "🇸🇧",
+      "police": "999",
+      "ambulance": "911",
+      "fire": "911",
+      "tourist": "999"
+    },
+    {
+      "name": "Somalia",
+      "code": "SO",
+      "flag": "🇸🇴",
+      "police": "888",
+      "ambulance": "888",
+      "fire": "888",
+      "tourist": "888"
+    },
+    {
+      "name": "South Africa",
+      "code": "ZA",
+      "flag": "🇿🇦",
+      "police": "10111",
+      "ambulance": "10177",
+      "fire": "10177",
+      "tourist": "083-123-2345"
+    },
+    {
+      "name": "South Sudan",
+      "code": "SS",
+      "flag": "🇸🇸",
+      "police": "999",
+      "ambulance": "999",
+      "fire": "999",
+      "tourist": "999"
+    },
+    {
+      "name": "Spain",
+      "code": "ES",
+      "flag": "🇪🇸",
+      "police": "091",
+      "ambulance": "061",
+      "fire": "080",
+      "tourist": "902-102-112"
+    },
+    {
+      "name": "Sri Lanka",
+      "code": "LK",
+      "flag": "🇱🇰",
+      "police": "119",
+      "ambulance": "110",
+      "fire": "111",
+      "tourist": "1912"
+    },
+    {
+      "name": "Sudan",
+      "code": "SD",
+      "flag": "🇸🇩",
+      "police": "999",
+      "ambulance": "999",
+      "fire": "999",
+      "tourist": "999"
+    },
+    {
+      "name": "Suriname",
+      "code": "SR",
+      "flag": "🇸🇷",
+      "police": "115",
+      "ambulance": "113",
+      "fire": "110",
+      "tourist": "115"
+    },
+    {
+      "name": "Sweden",
+      "code": "SE",
+      "flag": "🇸🇪",
+      "police": "112",
+      "ambulance": "112",
+      "fire": "112",
+      "tourist": "112"
+    },
+    {
+      "name": "Switzerland",
+      "code": "CH",
+      "flag": "🇨🇭",
+      "police": "117",
+      "ambulance": "144",
+      "fire": "118",
+      "tourist": "117"
+    },
+    {
+      "name": "Syria",
+      "code": "SY",
+      "flag": "🇸🇾",
+      "police": "112",
+      "ambulance": "110",
+      "fire": "113",
+      "tourist": "112"
+    },
+    {
+      "name": "Taiwan",
+      "code": "TW",
+      "flag": "🇹🇼",
+      "police": "110",
+      "ambulance": "119",
+      "fire": "119",
+      "tourist": "0800-011-765"
+    },
+    {
+      "name": "Tajikistan",
+      "code": "TJ",
+      "flag": "🇹🇯",
+      "police": "102",
+      "ambulance": "103",
+      "fire": "101",
+      "tourist": "102"
+    },
+    {
+      "name": "Tanzania",
+      "code": "TZ",
+      "flag": "🇹🇿",
+      "police": "111",
+      "ambulance": "114",
+      "fire": "115",
+      "tourist": "111"
+    },
+    {
+      "name": "Thailand",
+      "code": "TH",
+      "flag": "🇹🇭",
+      "police": "191",
+      "ambulance": "1669",
+      "fire": "199",
+      "tourist": "1155"
+    },
+    {
+      "name": "Timor-Leste",
+      "code": "TL",
+      "flag": "🇹🇱",
+      "police": "112",
+      "ambulance": "110",
+      "fire": "115",
+      "tourist": "112"
+    },
+    {
+      "name": "Togo",
+      "code": "TG",
+      "flag": "🇹🇬",
+      "police": "117",
+      "ambulance": "112",
+      "fire": "118",
+      "tourist": "117"
+    },
+    {
+      "name": "Tonga",
+      "code": "TO",
+      "flag": "🇹🇴",
+      "police": "922",
+      "ambulance": "911",
+      "fire": "999",
+      "tourist": "922"
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "code": "TT",
+      "flag": "🇹🇹",
+      "police": "999",
+      "ambulance": "990",
+      "fire": "990",
+      "tourist": "800-4TDC"
+    },
+    {
+      "name": "Tunisia",
+      "code": "TN",
+      "flag": "🇹🇳",
+      "police": "197",
+      "ambulance": "190",
+      "fire": "198",
+      "tourist": "71-341-077"
+    },
+    {
+      "name": "Turkey",
+      "code": "TR",
+      "flag": "🇹🇷",
+      "police": "155",
+      "ambulance": "112",
+      "fire": "110",
+      "tourist": "0212-518-1802"
+    },
+    {
+      "name": "Turkmenistan",
+      "code": "TM",
+      "flag": "🇹🇲",
+      "police": "102",
+      "ambulance": "103",
+      "fire": "101",
+      "tourist": "102"
+    },
+    {
+      "name": "Tuvalu",
+      "code": "TV",
+      "flag": "🇹🇻",
+      "police": "911",
+      "ambulance": "911",
+      "fire": "911",
+      "tourist": "911"
+    },
+    {
+      "name": "Uganda",
+      "code": "UG",
+      "flag": "🇺🇬",
+      "police": "999",
+      "ambulance": "999",
+      "fire": "999",
+      "tourist": "0414-258-273"
+    },
+    {
+      "name": "Ukraine",
+      "code": "UA",
+      "flag": "🇺🇦",
+      "police": "102",
+      "ambulance": "103",
+      "fire": "101",
+      "tourist": "112"
+    },
+    {
+      "name": "United Arab Emirates",
+      "code": "AE",
+      "flag": "🇦🇪",
+      "police": "999",
+      "ambulance": "998",
+      "fire": "997",
+      "tourist": "800-4438"
+    },
+    {
+      "name": "United Kingdom",
+      "code": "GB",
+      "flag": "🇬🇧",
+      "police": "999",
+      "ambulance": "999",
+      "fire": "999",
+      "tourist": "0845-46-47"
+    },
+    {
+      "name": "United States",
+      "code": "US",
+      "flag": "🇺🇸",
+      "police": "911",
+      "ambulance": "911",
+      "fire": "911",
+      "tourist": "1-800-225-5480"
+    },
+    {
+      "name": "Uruguay",
+      "code": "UY",
+      "flag": "🇺🇾",
+      "police": "911",
+      "ambulance": "911",
+      "fire": "911",
+      "tourist": "0800-8585"
+    },
+    {
+      "name": "Uzbekistan",
+      "code": "UZ",
+      "flag": "🇺🇿",
+      "police": "102",
+      "ambulance": "103",
+      "fire": "101",
+      "tourist": "1006"
+    },
+    {
+      "name": "Vanuatu",
+      "code": "VU",
+      "flag": "🇻🇺",
+      "police": "111",
+      "ambulance": "112",
+      "fire": "113",
+      "tourist": "111"
+    },
+    {
+      "name": "Vatican City",
+      "code": "VA",
+      "flag": "🇻🇦",
+      "police": "112",
+      "ambulance": "118",
+      "fire": "115",
+      "tourist": "06698-84466"
+    },
+    {
+      "name": "Venezuela",
+      "code": "VE",
+      "flag": "🇻🇪",
+      "police": "911",
+      "ambulance": "911",
+      "fire": "911",
+      "tourist": "0800-TOURISM"
+    },
+    {
+      "name": "Vietnam",
+      "code": "VN",
+      "flag": "🇻🇳",
+      "police": "113",
+      "ambulance": "115",
+      "fire": "114",
+      "tourist": "1800-599-985"
+    },
+    {
+      "name": "Yemen",
+      "code": "YE",
+      "flag": "🇾🇪",
+      "police": "194",
+      "ambulance": "191",
+      "fire": "191",
+      "tourist": "194"
+    },
+    {
+      "name": "Zambia",
+      "code": "ZM",
+      "flag": "🇿🇲",
+      "police": "999",
+      "ambulance": "991",
+      "fire": "993",
+      "tourist": "999"
+    },
+    {
+      "name": "Zimbabwe",
+      "code": "ZW",
+      "flag": "🇿🇼",
+      "police": "995",
+      "ambulance": "994",
+      "fire": "993",
+      "tourist": "995"
+    }
+  ]
+}

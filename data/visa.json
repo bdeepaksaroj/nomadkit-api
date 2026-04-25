@@ -1,0 +1,6140 @@
+{
+  "countries": [
+    {
+      "country": "India",
+      "code": "IN",
+      "flag": "🇮🇳",
+      "currency": "Indian Rupee (INR)",
+      "language": "Hindi, English",
+      "timezone": "IST (UTC+5:30)",
+      "plugType": "Type C, D, M",
+      "voltage": "230V",
+      "visaFree": ["Nepal", "Bhutan"],
+      "visaOnArrival": ["Japan", "South Korea"],
+      "eVisa": ["USA", "UK", "EU", "Australia", "Canada", "Singapore"],
+      "requirements": [
+        "📘 Valid passport (6 months validity)",
+        "💻 Approved e-Visa or regular visa",
+        "🎫 Return or onward ticket",
+        "🏨 Hotel booking or invitation letter",
+        "💰 Proof of sufficient funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, 200 cigarettes, 2 litres alcohol",
+        "❌ Not allowed: Drugs, weapons, certain foods",
+        "⚠️ Declare: Currency above $5,000 cash or $10,000 total",
+        "📵 Satellite phones require special permit"
+      ],
+      "importantNotes": [
+        "🇮🇳 Tourist e-Visa usually valid up to 90 days stay",
+        "📸 Photography prohibited in some military areas",
+        "👮 Immigration officers may ask travel purpose",
+        "💉 Yellow Fever vaccine required if arriving from endemic country"
+      ]
+    },
+    {
+      "country": "France",
+      "code": "FR",
+      "flag": "🇫🇷",
+      "currency": "Euro (EUR)",
+      "language": "French",
+      "timezone": "CET (UTC+1/+2)",
+      "plugType": "Type C, E",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "Australia", "Canada", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport issued within last 10 years",
+        "📅 Passport valid 3 months beyond departure",
+        "🎫 Return or onward ticket",
+        "🏨 Proof of accommodation",
+        "💰 Proof of sufficient funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, 200 cigarettes, 1 litre spirits",
+        "❌ Not allowed: Counterfeit goods",
+        "⚠️ Declare: Cash over €10,000",
+        "🛃 Schengen customs rules apply"
+      ],
+      "importantNotes": [
+        "🇪🇺 France is part of the Schengen Area",
+        "📅 Stay limit: 90 days within 180 days",
+        "💉 No mandatory vaccinations required",
+        "🚆 Schengen visa allows travel across 26 countries"
+      ]
+    },
+    {
+      "country": "Italy",
+      "code": "IT",
+      "flag": "🇮🇹",
+      "currency": "Euro (EUR)",
+      "language": "Italian",
+      "timezone": "CET (UTC+1/+2)",
+      "plugType": "Type C, F, L",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "Australia", "Canada", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 3 months after departure",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of sufficient funds",
+        "📋 Schengen visa if required"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, 200 cigarettes, 1 litre spirits",
+        "❌ Not allowed: Counterfeit goods",
+        "⚠️ Declare: Cash over €10,000",
+        "🛃 EU customs regulations apply"
+      ],
+      "importantNotes": [
+        "🇪🇺 Part of Schengen Area",
+        "📅 Tourist stay limited to 90 days",
+        "💉 No mandatory vaccinations required",
+        "🚆 Free travel within Schengen zone"
+      ]
+    },
+    {
+      "country": "Spain",
+      "code": "ES",
+      "flag": "🇪🇸",
+      "currency": "Euro (EUR)",
+      "language": "Spanish",
+      "timezone": "CET (UTC+1/+2)",
+      "plugType": "Type C, F",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "Australia", "Canada", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 3 months beyond departure",
+        "🎫 Return ticket",
+        "🏨 Accommodation proof",
+        "💰 Proof of sufficient funds",
+        "📋 Schengen visa if required"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, 200 cigarettes, 1 litre alcohol",
+        "❌ Not allowed: Counterfeit goods",
+        "⚠️ Declare: Cash over €10,000",
+        "🛃 EU customs regulations apply"
+      ],
+      "importantNotes": [
+        "🇪🇺 Spain is part of the Schengen Area",
+        "📅 Stay limit 90 days within 180 days",
+        "💉 No mandatory vaccinations required",
+        "🚆 Schengen visa allows multi-country travel"
+      ]
+    },
+    {
+      "country": "Egypt",
+      "code": "EG",
+      "flag": "🇪🇬",
+      "currency": "Egyptian Pound (EGP)",
+      "language": "Arabic",
+      "timezone": "EET (UTC+2)",
+      "plugType": "Type C, F",
+      "voltage": "220V",
+      "visaFree": [],
+      "visaOnArrival": ["USA", "UK", "EU", "Australia", "Canada", "Japan"],
+      "eVisa": ["Most countries"],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "🎫 Return or onward ticket",
+        "🏨 Hotel booking confirmation",
+        "💰 Proof of funds",
+        "📋 Visa on arrival or e-Visa"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, 200 cigarettes",
+        "❌ Not allowed: Drugs and weapons",
+        "⚠️ Declare: Cash over $10,000",
+        "📵 Drones require government approval"
+      ],
+      "importantNotes": [
+        "🇪🇬 Tourist visa usually valid for 30 days",
+        "🏺 Export of antiquities is illegal",
+        "💉 No mandatory vaccines but Hepatitis A recommended",
+        "👮 Security checks common at tourist sites"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "code": "TR",
+      "flag": "🇹🇷",
+      "currency": "Turkish Lira (TRY)",
+      "language": "Turkish",
+      "timezone": "TRT (UTC+3)",
+      "plugType": "Type C, F",
+      "voltage": "230V",
+      "visaFree": ["EU", "UK", "Japan", "South Korea"],
+      "visaOnArrival": [],
+      "eVisa": ["USA", "Canada", "Australia", "India"],
+      "requirements": [
+        "📘 Passport valid 60 days beyond visa stay",
+        "🎫 Return or onward ticket",
+        "🏨 Proof of accommodation",
+        "💰 Proof of sufficient funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, 200 cigarettes",
+        "❌ Not allowed: Drugs and weapons",
+        "⚠️ Declare: Large amounts of cash",
+        "📵 Export of cultural artifacts illegal"
+      ],
+      "importantNotes": [
+        "🇹🇷 e-Visa system available online",
+        "📅 Tourist stay usually 90 days",
+        "💉 No mandatory vaccines required",
+        "🕌 Dress modestly at mosques"
+      ]
+    },
+    {
+      "country": "Brazil",
+      "code": "BR",
+      "flag": "🇧🇷",
+      "currency": "Brazilian Real (BRL)",
+      "language": "Portuguese",
+      "timezone": "BRT (UTC-3)",
+      "plugType": "Type N, C",
+      "voltage": "127/220V",
+      "visaFree": ["EU", "UK", "Japan", "South Korea"],
+      "visaOnArrival": [],
+      "eVisa": ["USA", "Canada", "Australia"],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "🎫 Return ticket",
+        "🏨 Proof of accommodation",
+        "💰 Proof of sufficient funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, tobacco and alcohol limits",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash over $10,000",
+        "📵 Export of wildlife products illegal"
+      ],
+      "importantNotes": [
+        "🇧🇷 Tourist stay usually up to 90 days",
+        "💉 Yellow Fever vaccine recommended",
+        "⚽ Pickpocketing possible in crowded areas",
+        "🌎 Portuguese is the official language"
+      ]
+    },
+    {
+      "country": "Mexico",
+      "code": "MX",
+      "flag": "🇲🇽",
+      "currency": "Mexican Peso (MXN)",
+      "language": "Spanish",
+      "timezone": "Multiple",
+      "plugType": "Type A, B",
+      "voltage": "127V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Valid passport",
+        "📋 FMM tourist card issued on arrival",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, 200 cigarettes, 3 litres alcohol",
+        "❌ Not allowed: Weapons",
+        "⚠️ Declare: Cash above $10,000",
+        "🌵 Export of protected cactus species illegal"
+      ],
+      "importantNotes": [
+        "🇲🇽 Tourist stay usually up to 180 days",
+        "🚰 Tap water not recommended to drink",
+        "💉 Hepatitis A vaccine recommended",
+        "📋 Keep FMM card safe"
+      ]
+    },
+    {
+      "country": "Japan",
+      "code": "JP",
+      "flag": "🇯🇵",
+      "currency": "Japanese Yen (JPY)",
+      "language": "Japanese",
+      "timezone": "JST (UTC+9)",
+      "plugType": "Type A (same as USA)",
+      "voltage": "100V",
+      "visaFree": [
+        "USA",
+        "UK",
+        "EU",
+        "Australia",
+        "Canada",
+        "Singapore",
+        "South Korea"
+      ],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Valid passport (6 months validity)",
+        "🎫 Return or onward ticket",
+        "💰 Proof of sufficient funds",
+        "🏨 Hotel booking or invitation letter",
+        "📋 Completed arrival card (given on plane)"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, 200 cigarettes, 3 bottles alcohol",
+        "❌ Not allowed: Drugs, weapons, certain medications",
+        "⚠️ Declare: Cash over $10,000, commercial goods",
+        "💊 Some common medications are illegal in Japan — check in advance"
+      ],
+      "importantNotes": [
+        "🇯🇵 Visa-free stay is 90 days for most Western passports",
+        "📸 No photography at immigration — serious offence",
+        "👮 Immigration officers speak limited English — be patient",
+        "💉 No mandatory vaccinations required"
+      ]
+    },
+    {
+      "country": "Greece",
+      "code": "GR",
+      "flag": "🇬🇷",
+      "currency": "Euro (EUR)",
+      "language": "Greek",
+      "timezone": "EET (UTC+2/+3)",
+      "plugType": "Type C, F",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 3 months after departure",
+        "🎫 Return ticket",
+        "🏨 Accommodation proof",
+        "💰 Proof of sufficient funds",
+        "📋 Schengen visa if required"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, 200 cigarettes, 1 litre alcohol",
+        "❌ Not allowed: Counterfeit goods",
+        "⚠️ Declare: Cash over €10,000",
+        "🛃 EU customs regulations apply"
+      ],
+      "importantNotes": [
+        "🇬🇷 Greece is part of the Schengen Area",
+        "📅 Stay limit 90 days within 180 days",
+        "💉 No mandatory vaccinations required",
+        "🚆 Schengen visa allows travel across 26 countries"
+      ]
+    },
+    {
+      "country": "United States",
+      "code": "US",
+      "flag": "🇺🇸",
+      "currency": "US Dollar (USD)",
+      "language": "English",
+      "timezone": "Multiple (EST–PST)",
+      "plugType": "Type A, B",
+      "voltage": "120V",
+      "visaFree": [],
+      "visaOnArrival": [],
+      "eVisa": ["UK", "EU", "Australia", "Japan", "South Korea"],
+      "requirements": [
+        "📘 Valid passport (valid for duration of stay)",
+        "💻 ESTA authorization for Visa Waiver countries",
+        "🎫 Return or onward ticket",
+        "🏨 Proof of accommodation",
+        "💰 Proof of sufficient funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, 200 cigarettes, 1 litre alcohol",
+        "❌ Not allowed: Fresh fruits, meats, plants",
+        "⚠️ Declare: Cash over $10,000 and all food items",
+        "🐶 Strict rules for pets entering the country"
+      ],
+      "importantNotes": [
+        "🇺🇸 Visa Waiver Program allows stays up to 90 days",
+        "📸 Fingerprints and photo taken at immigration",
+        "👮 Immigration officers may ask detailed questions",
+        "💉 No mandatory vaccines for most travelers"
+      ]
+    },
+    {
+      "country": "China",
+      "code": "CN",
+      "flag": "🇨🇳",
+      "currency": "Chinese Yuan (CNY)",
+      "language": "Mandarin Chinese",
+      "timezone": "CST (UTC+8)",
+      "plugType": "Type A, C, I",
+      "voltage": "220V",
+      "visaFree": ["Singapore", "Japan (short stays)"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months with blank pages",
+        "📋 Chinese tourist visa required for most nationalities",
+        "🎫 Return or onward ticket",
+        "🏨 Hotel booking or invitation letter",
+        "💰 Proof of sufficient funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, limited tobacco and alcohol",
+        "❌ Not allowed: Drugs, weapons, politically sensitive materials",
+        "⚠️ Declare: Cash over $5,000",
+        "📵 Drones require special permit"
+      ],
+      "importantNotes": [
+        "🇨🇳 Visa usually required before arrival",
+        "📱 Some websites and apps are restricted",
+        "📋 Police registration required within 24 hours of arrival",
+        "💉 No mandatory vaccinations required"
+      ]
+    },
+    {
+      "country": "South Africa",
+      "code": "ZA",
+      "flag": "🇿🇦",
+      "currency": "South African Rand (ZAR)",
+      "language": "English, Zulu, Afrikaans",
+      "timezone": "SAST (UTC+2)",
+      "plugType": "Type D, M, N",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia"],
+      "visaOnArrival": [],
+      "eVisa": ["India", "China"],
+      "requirements": [
+        "📘 Passport valid 30 days after departure",
+        "📄 At least two blank passport pages",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation details"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, 200 cigarettes, 1 litre alcohol",
+        "❌ Not allowed: Drugs and illegal wildlife products",
+        "⚠️ Declare: Cash over $10,000",
+        "🌿 Strict wildlife protection laws"
+      ],
+      "importantNotes": [
+        "🇿🇦 Tourist stay usually up to 90 days",
+        "💉 Yellow Fever vaccine required if arriving from endemic country",
+        "⚠️ Petty theft possible in tourist areas",
+        "🚗 Drive on the left side"
+      ]
+    },
+    {
+      "country": "Australia",
+      "code": "AU",
+      "flag": "🇦🇺",
+      "currency": "Australian Dollar (AUD)",
+      "language": "English",
+      "timezone": "Multiple (AEST–AWST)",
+      "plugType": "Type I",
+      "voltage": "230V",
+      "visaFree": [],
+      "visaOnArrival": [],
+      "eVisa": ["USA", "UK", "EU", "Canada", "Japan"],
+      "requirements": [
+        "📘 Valid passport",
+        "💻 ETA or eVisitor visa approval",
+        "🎫 Return or onward ticket",
+        "💰 Proof of funds",
+        "📋 Incoming Passenger Card"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, 50 cigarettes, 2.25 litres alcohol",
+        "❌ Not allowed: Fresh food, plants, animal products",
+        "⚠️ Declare: All food and plant items",
+        "🌿 Strict biosecurity rules"
+      ],
+      "importantNotes": [
+        "🇦🇺 ETA required before travel for many countries",
+        "🐶 Strict pet quarantine rules",
+        "☀️ UV exposure very high",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Germany",
+      "code": "DE",
+      "flag": "🇩🇪",
+      "currency": "Euro (EUR)",
+      "language": "German",
+      "timezone": "CET (UTC+1/+2)",
+      "plugType": "Type C, F",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 3 months beyond departure",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation proof",
+        "💰 Proof of sufficient funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, 200 cigarettes",
+        "❌ Not allowed: Counterfeit goods",
+        "⚠️ Declare: Cash over €10,000",
+        "🛃 EU customs regulations apply"
+      ],
+      "importantNotes": [
+        "🇪🇺 Part of Schengen Area",
+        "📅 Tourist stay up to 90 days within 180 days",
+        "💉 No mandatory vaccines",
+        "🚆 Easy train travel across Europe"
+      ]
+    },
+    {
+      "country": "United Arab Emirates",
+      "code": "AE",
+      "flag": "🇦🇪",
+      "currency": "UAE Dirham (AED)",
+      "language": "Arabic, English widely spoken",
+      "timezone": "GST (UTC+4)",
+      "plugType": "Type G",
+      "voltage": "220V",
+      "visaFree": ["USA", "UK", "EU", "Australia", "Canada"],
+      "visaOnArrival": ["India", "Russia", "China"],
+      "eVisa": ["Most other countries"],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "🎫 Return or onward ticket",
+        "🏨 Hotel booking confirmation",
+        "💰 Proof of sufficient funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, 400 cigarettes, 4 litres alcohol",
+        "❌ Not allowed: Drugs, pork products in large quantities",
+        "⚠️ Declare: Cash above AED 60,000",
+        "💊 Some prescription drugs restricted"
+      ],
+      "importantNotes": [
+        "🇦🇪 Visa-free entry for many nationalities",
+        "👗 Dress modestly in public places",
+        "🍺 Alcohol allowed only in licensed venues",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "South Korea",
+      "code": "KR",
+      "flag": "🇰🇷",
+      "currency": "South Korean Won (KRW)",
+      "language": "Korean",
+      "timezone": "KST (UTC+9)",
+      "plugType": "Type C, F",
+      "voltage": "220V",
+      "visaFree": ["USA", "UK", "EU", "Australia", "Canada"],
+      "visaOnArrival": [],
+      "eVisa": ["Some Asian countries"],
+      "requirements": [
+        "📘 Valid passport",
+        "💻 K-ETA approval for visa waiver countries",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation details"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, 200 cigarettes, 1 litre alcohol",
+        "❌ Not allowed: Drugs, certain medications",
+        "⚠️ Declare: Cash over $10,000",
+        "💊 Strict medication rules"
+      ],
+      "importantNotes": [
+        "🇰🇷 Visa-free stay usually up to 90 days",
+        "📱 High-tech immigration kiosks",
+        "💉 No mandatory vaccinations",
+        "🚆 Excellent high-speed train system"
+      ]
+    },
+    {
+      "country": "Peru",
+      "code": "PE",
+      "flag": "🇵🇪",
+      "currency": "Peruvian Sol (PEN)",
+      "language": "Spanish",
+      "timezone": "PET (UTC−5)",
+      "plugType": "Type A, C",
+      "voltage": "220V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Valid passport",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Drugs, cultural artifacts",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Export of certain plants illegal"
+      ],
+      "importantNotes": [
+        "🇵🇪 Tourist stay usually up to 90 days",
+        "🏔 Altitude sickness possible in Andes",
+        "💉 Yellow Fever recommended for jungle areas",
+        "🚰 Avoid drinking tap water"
+      ]
+    },
+    {
+      "country": "Canada",
+      "code": "CA",
+      "flag": "🇨🇦",
+      "currency": "Canadian Dollar (CAD)",
+      "language": "English, French",
+      "timezone": "Multiple",
+      "plugType": "Type A, B",
+      "voltage": "120V",
+      "visaFree": ["USA", "UK", "EU", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": ["Many countries via eTA"],
+      "requirements": [
+        "📘 Valid passport",
+        "💻 eTA approval for visa-exempt travelers",
+        "🎫 Return or onward ticket",
+        "🏨 Proof of accommodation"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, limited tobacco and alcohol",
+        "❌ Not allowed: Certain food products",
+        "⚠️ Declare: Cash over CAD 10,000",
+        "🌿 Strict agricultural import rules"
+      ],
+      "importantNotes": [
+        "🇨🇦 Tourist stay usually up to 6 months",
+        "📸 Biometrics required for many visas",
+        "💉 No mandatory vaccinations",
+        "❄️ Weather can be extreme in winter"
+      ]
+    },
+    {
+      "country": "Netherlands",
+      "code": "NL",
+      "flag": "🇳🇱",
+      "currency": "Euro (EUR)",
+      "language": "Dutch",
+      "timezone": "CET (UTC+1/+2)",
+      "plugType": "Type C, F",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 3 months beyond departure",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of sufficient funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, 200 cigarettes",
+        "❌ Not allowed: Counterfeit goods",
+        "⚠️ Declare: Cash over €10,000",
+        "🛃 EU customs rules apply"
+      ],
+      "importantNotes": [
+        "🇪🇺 Part of the Schengen Area",
+        "📅 Stay limit 90 days within 180 days",
+        "🚲 Bicycles are the main transport in cities",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Switzerland",
+      "code": "CH",
+      "flag": "🇨🇭",
+      "currency": "Swiss Franc (CHF)",
+      "language": "German, French, Italian",
+      "timezone": "CET (UTC+1/+2)",
+      "plugType": "Type C, J",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 3 months beyond departure",
+        "🎫 Return or onward ticket",
+        "🏨 Proof of accommodation",
+        "💰 Proof of sufficient funds",
+        "📋 Schengen visa if required"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, 200 cigarettes, 1 litre spirits",
+        "❌ Not allowed: Counterfeit goods",
+        "⚠️ Declare: Cash over CHF 10,000",
+        "🛃 Swiss and EU customs regulations apply"
+      ],
+      "importantNotes": [
+        "🇨🇭 Switzerland is part of the Schengen Area",
+        "📅 Tourist stay up to 90 days within 180 days",
+        "💉 No mandatory vaccinations required",
+        "🚆 Excellent rail network across the country"
+      ]
+    },
+    {
+      "country": "Argentina",
+      "code": "AR",
+      "flag": "🇦🇷",
+      "currency": "Argentine Peso (ARS)",
+      "language": "Spanish",
+      "timezone": "ART (UTC−3)",
+      "plugType": "Type C, I",
+      "voltage": "220V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Valid passport",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of sufficient funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, limited tobacco and alcohol",
+        "❌ Not allowed: Drugs and weapons",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Export of protected wildlife products illegal"
+      ],
+      "importantNotes": [
+        "🇦🇷 Tourist stay usually up to 90 days",
+        "💉 No mandatory vaccines but Yellow Fever recommended for some regions",
+        "⚽ Pickpocketing possible in busy tourist areas",
+        "🧊 Weather opposite seasons of northern hemisphere"
+      ]
+    },
+    {
+      "country": "Kenya",
+      "code": "KE",
+      "flag": "🇰🇪",
+      "currency": "Kenyan Shilling (KES)",
+      "language": "English, Swahili",
+      "timezone": "EAT (UTC+3)",
+      "plugType": "Type G",
+      "voltage": "240V",
+      "visaFree": [],
+      "visaOnArrival": [],
+      "eVisa": ["Most countries"],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "💻 Electronic Travel Authorization (eTA)",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation details"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, 200 cigarettes",
+        "❌ Not allowed: Drugs, weapons, plastic bags",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Wildlife products strictly prohibited"
+      ],
+      "importantNotes": [
+        "🇰🇪 Tourist stay usually up to 90 days",
+        "💉 Yellow Fever vaccine recommended",
+        "🦁 Popular for safari tourism",
+        "⚠️ Carry passport copy when travelling"
+      ]
+    },
+    {
+      "country": "Singapore",
+      "code": "SG",
+      "flag": "🇸🇬",
+      "currency": "Singapore Dollar (SGD)",
+      "language": "English, Mandarin, Malay, Tamil",
+      "timezone": "SGT (UTC+8)",
+      "plugType": "Type G",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "EU", "Australia", "Canada", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of sufficient funds",
+        "💻 SG Arrival Card completed online"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, 200 cigarettes, 1 litre alcohol",
+        "❌ Not allowed: Chewing gum import, drugs, e-cigarettes",
+        "⚠️ Declare: Cash above SGD 20,000",
+        "🚬 Strict tobacco regulations"
+      ],
+      "importantNotes": [
+        "🇸🇬 Tourist stay usually up to 90 days",
+        "🚯 Strict laws against littering",
+        "🚭 Smoking only in designated areas",
+        "💉 No mandatory vaccinations required"
+      ]
+    },
+    {
+      "country": "Portugal",
+      "code": "PT",
+      "flag": "🇵🇹",
+      "currency": "Euro (EUR)",
+      "language": "Portuguese",
+      "timezone": "WET (UTC+0/+1)",
+      "plugType": "Type C, F",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 3 months beyond departure",
+        "🎫 Return ticket",
+        "🏨 Accommodation proof",
+        "💰 Proof of sufficient funds",
+        "📋 Schengen visa if required"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, 200 cigarettes",
+        "❌ Not allowed: Counterfeit goods",
+        "⚠️ Declare: Cash above €10,000",
+        "🛃 EU customs regulations apply"
+      ],
+      "importantNotes": [
+        "🇪🇺 Portugal is part of the Schengen Area",
+        "📅 Stay limit 90 days within 180 days",
+        "💉 No mandatory vaccines required",
+        "🌊 Popular for coastal tourism"
+      ]
+    },
+    {
+      "country": "Colombia",
+      "code": "CO",
+      "flag": "🇨🇴",
+      "currency": "Colombian Peso (COP)",
+      "language": "Spanish",
+      "timezone": "COT (UTC−5)",
+      "plugType": "Type A, B",
+      "voltage": "110V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Valid passport",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of sufficient funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, limited tobacco and alcohol",
+        "❌ Not allowed: Drugs and weapons",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Export of protected wildlife products illegal"
+      ],
+      "importantNotes": [
+        "🇨🇴 Tourist stay usually up to 90 days",
+        "💉 Yellow Fever recommended for jungle areas",
+        "⚠️ Petty theft possible in crowded areas",
+        "☕ Coffee is a major national export"
+      ]
+    },
+    {
+      "country": "Chile",
+      "code": "CL",
+      "flag": "🇨🇱",
+      "currency": "Chilean Peso (CLP)",
+      "language": "Spanish",
+      "timezone": "CLT (UTC−4)",
+      "plugType": "Type C, L",
+      "voltage": "220V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Valid passport",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Fresh food, fruits, plant material",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Strict agricultural inspections"
+      ],
+      "importantNotes": [
+        "🇨🇱 Tourist stay usually up to 90 days",
+        "🏔 Famous for Andes mountains and Patagonia",
+        "💉 No mandatory vaccines",
+        "🚰 Tap water generally safe in cities"
+      ]
+    },
+    {
+      "country": "Norway",
+      "code": "NO",
+      "flag": "🇳🇴",
+      "currency": "Norwegian Krone (NOK)",
+      "language": "Norwegian",
+      "timezone": "CET (UTC+1/+2)",
+      "plugType": "Type C, F",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 3 months beyond departure",
+        "🎫 Return ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of funds",
+        "📋 Schengen visa if required"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, limited alcohol and tobacco",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above NOK 25,000",
+        "🛃 Customs inspections possible"
+      ],
+      "importantNotes": [
+        "🇳🇴 Part of the Schengen Area",
+        "📅 Stay limit 90 days within 180 days",
+        "🌌 Northern Lights visible in winter",
+        "💉 No mandatory vaccines required"
+      ]
+    },
+    {
+      "country": "Finland",
+      "code": "FI",
+      "flag": "🇫🇮",
+      "currency": "Euro (EUR)",
+      "language": "Finnish, Swedish",
+      "timezone": "EET (UTC+2/+3)",
+      "plugType": "Type C, F",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 3 months beyond departure",
+        "🎫 Return ticket",
+        "🏨 Accommodation proof",
+        "💰 Proof of sufficient funds",
+        "📋 Schengen visa if required"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, limited alcohol and tobacco",
+        "❌ Not allowed: Counterfeit goods",
+        "⚠️ Declare: Cash above €10,000",
+        "🛃 EU customs regulations apply"
+      ],
+      "importantNotes": [
+        "🇫🇮 Part of the Schengen Area",
+        "📅 Tourist stay up to 90 days",
+        "🌌 Northern Lights visible in Lapland",
+        "💉 No mandatory vaccines required"
+      ]
+    },
+    {
+      "country": "Denmark",
+      "code": "DK",
+      "flag": "🇩🇰",
+      "currency": "Danish Krone (DKK)",
+      "language": "Danish",
+      "timezone": "CET (UTC+1/+2)",
+      "plugType": "Type C, F, K",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 3 months beyond departure",
+        "🎫 Return ticket",
+        "🏨 Accommodation proof",
+        "💰 Proof of sufficient funds",
+        "📋 Schengen visa if required"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, limited alcohol and tobacco",
+        "❌ Not allowed: Counterfeit goods",
+        "⚠️ Declare: Cash above €10,000",
+        "🛃 EU customs regulations apply"
+      ],
+      "importantNotes": [
+        "🇩🇰 Denmark is part of the Schengen Area",
+        "📅 Stay limit 90 days within 180 days",
+        "🚲 Cycling is common in cities",
+        "💉 No mandatory vaccinations required"
+      ]
+    },
+    {
+      "country": "Belgium",
+      "code": "BE",
+      "flag": "🇧🇪",
+      "currency": "Euro (EUR)",
+      "language": "Dutch, French, German",
+      "timezone": "CET (UTC+1/+2)",
+      "plugType": "Type C, E",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 3 months beyond departure",
+        "🎫 Return or onward ticket",
+        "🏨 Proof of accommodation",
+        "💰 Proof of sufficient funds",
+        "📋 Schengen visa if required"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, 200 cigarettes, 1 litre spirits",
+        "❌ Not allowed: Counterfeit goods",
+        "⚠️ Declare: Cash over €10,000",
+        "🛃 EU customs regulations apply"
+      ],
+      "importantNotes": [
+        "🇧🇪 Belgium is part of the Schengen Area",
+        "📅 Stay limit 90 days within 180 days",
+        "🍫 Famous for chocolate and waffles",
+        "💉 No mandatory vaccinations required"
+      ]
+    },
+    {
+      "country": "Austria",
+      "code": "AT",
+      "flag": "🇦🇹",
+      "currency": "Euro (EUR)",
+      "language": "German",
+      "timezone": "CET (UTC+1/+2)",
+      "plugType": "Type C, F",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 3 months beyond departure",
+        "🎫 Return ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of sufficient funds",
+        "📋 Schengen visa if required"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, 200 cigarettes",
+        "❌ Not allowed: Counterfeit goods",
+        "⚠️ Declare: Cash over €10,000",
+        "🛃 EU customs regulations apply"
+      ],
+      "importantNotes": [
+        "🇦🇹 Part of the Schengen Area",
+        "📅 Tourist stay up to 90 days",
+        "🎿 Popular destination for skiing",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Poland",
+      "code": "PL",
+      "flag": "🇵🇱",
+      "currency": "Polish Zloty (PLN)",
+      "language": "Polish",
+      "timezone": "CET (UTC+1/+2)",
+      "plugType": "Type C, E",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 3 months beyond departure",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation proof",
+        "💰 Proof of funds",
+        "📋 Schengen visa if required"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, tobacco and alcohol limits",
+        "❌ Not allowed: Counterfeit goods",
+        "⚠️ Declare: Cash above €10,000",
+        "🛃 EU customs regulations apply"
+      ],
+      "importantNotes": [
+        "🇵🇱 Poland is part of the Schengen Area",
+        "📅 Stay limit 90 days within 180 days",
+        "🏰 Historic cities like Krakow and Warsaw",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Hungary",
+      "code": "HU",
+      "flag": "🇭🇺",
+      "currency": "Hungarian Forint (HUF)",
+      "language": "Hungarian",
+      "timezone": "CET (UTC+1/+2)",
+      "plugType": "Type C, F",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 3 months beyond departure",
+        "🎫 Return ticket",
+        "🏨 Accommodation proof",
+        "💰 Proof of sufficient funds",
+        "📋 Schengen visa if required"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, 200 cigarettes",
+        "❌ Not allowed: Counterfeit goods",
+        "⚠️ Declare: Cash above €10,000",
+        "🛃 EU customs regulations apply"
+      ],
+      "importantNotes": [
+        "🇭🇺 Hungary is part of the Schengen Area",
+        "📅 Tourist stay up to 90 days",
+        "♨️ Famous thermal baths in Budapest",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Czech Republic",
+      "code": "CZ",
+      "flag": "🇨🇿",
+      "currency": "Czech Koruna (CZK)",
+      "language": "Czech",
+      "timezone": "CET (UTC+1/+2)",
+      "plugType": "Type C, E",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 3 months beyond departure",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation proof",
+        "💰 Proof of funds",
+        "📋 Schengen visa if required"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, tobacco and alcohol limits",
+        "❌ Not allowed: Counterfeit goods",
+        "⚠️ Declare: Cash above €10,000",
+        "🛃 EU customs regulations apply"
+      ],
+      "importantNotes": [
+        "🇨🇿 Part of the Schengen Area",
+        "📅 Stay limit 90 days within 180 days",
+        "🏰 Prague is one of Europe’s most visited cities",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Iceland",
+      "code": "IS",
+      "flag": "🇮🇸",
+      "currency": "Icelandic Krona (ISK)",
+      "language": "Icelandic",
+      "timezone": "GMT (UTC+0)",
+      "plugType": "Type C, F",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 3 months beyond departure",
+        "🎫 Return ticket",
+        "🏨 Accommodation proof",
+        "💰 Proof of funds",
+        "📋 Schengen visa if required"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Raw meat or dairy products",
+        "⚠️ Declare: Cash above €10,000",
+        "🌿 Strict environmental protections"
+      ],
+      "importantNotes": [
+        "🇮🇸 Iceland is part of the Schengen Area",
+        "📅 Tourist stay up to 90 days",
+        "🌋 Famous for volcanoes and geysers",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "New Zealand",
+      "code": "NZ",
+      "flag": "🇳🇿",
+      "currency": "New Zealand Dollar (NZD)",
+      "language": "English, Maori",
+      "timezone": "NZST (UTC+12)",
+      "plugType": "Type I",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": ["Most visa waiver countries via NZeTA"],
+      "requirements": [
+        "📘 Valid passport",
+        "💻 NZeTA travel authorization",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, limited alcohol and tobacco",
+        "❌ Not allowed: Fresh food, plants, animal products",
+        "⚠️ Declare: All food items on arrival",
+        "🌿 Strict biosecurity regulations"
+      ],
+      "importantNotes": [
+        "🇳🇿 Tourist stay usually up to 90 days",
+        "🐑 Agriculture biosecurity laws are very strict",
+        "🏔 Famous for nature and adventure tourism",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Sweden",
+      "code": "SE",
+      "flag": "🇸🇪",
+      "currency": "Swedish Krona (SEK)",
+      "language": "Swedish",
+      "timezone": "CET (UTC+1/+2)",
+      "plugType": "Type C, F",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 3 months beyond departure",
+        "🎫 Return ticket",
+        "🏨 Accommodation proof",
+        "💰 Proof of sufficient funds",
+        "📋 Schengen visa if required"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, limited alcohol and tobacco",
+        "❌ Not allowed: Counterfeit goods",
+        "⚠️ Declare: Cash above €10,000",
+        "🛃 EU customs regulations apply"
+      ],
+      "importantNotes": [
+        "🇸🇪 Sweden is part of the Schengen Area",
+        "📅 Stay limit 90 days within 180 days",
+        "🌌 Northern Lights visible in winter",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Ireland",
+      "code": "IE",
+      "flag": "🇮🇪",
+      "currency": "Euro (EUR)",
+      "language": "English, Irish",
+      "timezone": "GMT (UTC+0/+1)",
+      "plugType": "Type G",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Valid passport",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of sufficient funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, tobacco and alcohol limits",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above €10,000",
+        "🛃 Customs inspections possible"
+      ],
+      "importantNotes": [
+        "🇮🇪 Ireland is NOT part of the Schengen Area",
+        "📅 Tourist stay usually up to 90 days",
+        "☘️ Famous for landscapes and historic castles",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Croatia",
+      "code": "HR",
+      "flag": "🇭🇷",
+      "currency": "Euro (EUR)",
+      "language": "Croatian",
+      "timezone": "CET (UTC+1/+2)",
+      "plugType": "Type C, F",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 3 months beyond departure",
+        "🎫 Return ticket",
+        "🏨 Accommodation proof",
+        "💰 Proof of sufficient funds",
+        "📋 Schengen visa if required"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, tobacco and alcohol limits",
+        "❌ Not allowed: Counterfeit goods",
+        "⚠️ Declare: Cash above €10,000",
+        "🛃 EU customs regulations apply"
+      ],
+      "importantNotes": [
+        "🇭🇷 Croatia joined the Schengen Area in 2023",
+        "📅 Stay limit 90 days within 180 days",
+        "🏖 Famous Adriatic coastline",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Serbia",
+      "code": "RS",
+      "flag": "🇷🇸",
+      "currency": "Serbian Dinar (RSD)",
+      "language": "Serbian",
+      "timezone": "CET (UTC+1/+2)",
+      "plugType": "Type C, F",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid for duration of stay",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of sufficient funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, tobacco and alcohol limits",
+        "❌ Not allowed: Illegal drugs and weapons",
+        "⚠️ Declare: Cash over €10,000",
+        "📵 Export of cultural artifacts restricted"
+      ],
+      "importantNotes": [
+        "🇷🇸 Tourist stay usually up to 90 days",
+        "📋 Police registration required if staying in private accommodation",
+        "🚗 Drive on the right side of the road",
+        "💉 No mandatory vaccinations required"
+      ]
+    },
+    {
+      "country": "Bulgaria",
+      "code": "BG",
+      "flag": "🇧🇬",
+      "currency": "Bulgarian Lev (BGN)",
+      "language": "Bulgarian",
+      "timezone": "EET (UTC+2/+3)",
+      "plugType": "Type C, F",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 3 months beyond departure",
+        "🎫 Return ticket",
+        "🏨 Accommodation proof",
+        "💰 Proof of funds",
+        "📋 Visa if required"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, limited alcohol and tobacco",
+        "❌ Not allowed: Counterfeit goods",
+        "⚠️ Declare: Cash above €10,000",
+        "🛃 Customs inspections possible"
+      ],
+      "importantNotes": [
+        "🇧🇬 EU member but not fully part of Schengen travel area",
+        "📅 Tourist stay usually up to 90 days",
+        "🏖 Black Sea coast popular in summer",
+        "💉 No mandatory vaccines required"
+      ]
+    },
+    {
+      "country": "Romania",
+      "code": "RO",
+      "flag": "🇷🇴",
+      "currency": "Romanian Leu (RON)",
+      "language": "Romanian",
+      "timezone": "EET (UTC+2/+3)",
+      "plugType": "Type C, F",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 3 months beyond departure",
+        "🎫 Return ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of sufficient funds",
+        "📋 Visa if required"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, limited alcohol and tobacco",
+        "❌ Not allowed: Counterfeit goods",
+        "⚠️ Declare: Cash above €10,000",
+        "🛃 Customs inspections possible"
+      ],
+      "importantNotes": [
+        "🇷🇴 EU member country",
+        "📅 Tourist stay usually up to 90 days",
+        "🏰 Famous for Transylvania and medieval castles",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Slovakia",
+      "code": "SK",
+      "flag": "🇸🇰",
+      "currency": "Euro (EUR)",
+      "language": "Slovak",
+      "timezone": "CET (UTC+1/+2)",
+      "plugType": "Type C, E",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 3 months beyond departure",
+        "🎫 Return ticket",
+        "🏨 Accommodation proof",
+        "💰 Proof of sufficient funds",
+        "📋 Schengen visa if required"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, limited alcohol and tobacco",
+        "❌ Not allowed: Counterfeit goods",
+        "⚠️ Declare: Cash above €10,000",
+        "🛃 EU customs rules apply"
+      ],
+      "importantNotes": [
+        "🇸🇰 Slovakia is part of the Schengen Area",
+        "📅 Tourist stay up to 90 days within 180 days",
+        "🏔 High Tatras mountains popular for hiking",
+        "💉 No mandatory vaccines required"
+      ]
+    },
+    {
+      "country": "Slovenia",
+      "code": "SI",
+      "flag": "🇸🇮",
+      "currency": "Euro (EUR)",
+      "language": "Slovenian",
+      "timezone": "CET (UTC+1/+2)",
+      "plugType": "Type C, F",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 3 months beyond departure",
+        "🎫 Return ticket",
+        "🏨 Accommodation proof",
+        "💰 Proof of funds",
+        "📋 Schengen visa if required"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, limited alcohol and tobacco",
+        "❌ Not allowed: Counterfeit goods",
+        "⚠️ Declare: Cash above €10,000",
+        "🛃 EU customs regulations apply"
+      ],
+      "importantNotes": [
+        "🇸🇮 Slovenia is part of the Schengen Area",
+        "📅 Tourist stay up to 90 days",
+        "🏞 Famous for Lake Bled and alpine landscapes",
+        "💉 No mandatory vaccines required"
+      ]
+    },
+    {
+      "country": "Estonia",
+      "code": "EE",
+      "flag": "🇪🇪",
+      "currency": "Euro (EUR)",
+      "language": "Estonian",
+      "timezone": "EET (UTC+2/+3)",
+      "plugType": "Type C, F",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 3 months beyond departure",
+        "🎫 Return ticket",
+        "🏨 Accommodation proof",
+        "💰 Proof of sufficient funds",
+        "📋 Schengen visa if required"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, limited alcohol and tobacco",
+        "❌ Not allowed: Counterfeit goods",
+        "⚠️ Declare: Cash above €10,000",
+        "🛃 EU customs rules apply"
+      ],
+      "importantNotes": [
+        "🇪🇪 Estonia is part of the Schengen Area",
+        "📅 Tourist stay up to 90 days",
+        "💻 One of the most digital countries in Europe",
+        "💉 No mandatory vaccines required"
+      ]
+    },
+    {
+      "country": "Latvia",
+      "code": "LV",
+      "flag": "🇱🇻",
+      "currency": "Euro (EUR)",
+      "language": "Latvian",
+      "timezone": "EET (UTC+2/+3)",
+      "plugType": "Type C, F",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 3 months beyond departure",
+        "🎫 Return ticket",
+        "🏨 Accommodation proof",
+        "💰 Proof of sufficient funds",
+        "📋 Schengen visa if required"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, limited alcohol and tobacco",
+        "❌ Not allowed: Counterfeit goods",
+        "⚠️ Declare: Cash above €10,000",
+        "🛃 EU customs rules apply"
+      ],
+      "importantNotes": [
+        "🇱🇻 Latvia is part of the Schengen Area",
+        "📅 Tourist stay up to 90 days",
+        "🏖 Baltic Sea coastline popular in summer",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Lithuania",
+      "code": "LT",
+      "flag": "🇱🇹",
+      "currency": "Euro (EUR)",
+      "language": "Lithuanian",
+      "timezone": "EET (UTC+2/+3)",
+      "plugType": "Type C, F",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 3 months beyond departure",
+        "🎫 Return ticket",
+        "🏨 Accommodation proof",
+        "💰 Proof of sufficient funds",
+        "📋 Schengen visa if required"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, limited alcohol and tobacco",
+        "❌ Not allowed: Counterfeit goods",
+        "⚠️ Declare: Cash above €10,000",
+        "🛃 EU customs rules apply"
+      ],
+      "importantNotes": [
+        "🇱🇹 Lithuania is part of the Schengen Area",
+        "📅 Tourist stay up to 90 days",
+        "🏰 Vilnius old town is a UNESCO site",
+        "💉 No mandatory vaccines required"
+      ]
+    },
+    {
+      "country": "Luxembourg",
+      "code": "LU",
+      "flag": "🇱🇺",
+      "currency": "Euro (EUR)",
+      "language": "Luxembourgish, French, German",
+      "timezone": "CET (UTC+1/+2)",
+      "plugType": "Type C, F",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 3 months beyond departure",
+        "🎫 Return ticket",
+        "🏨 Accommodation proof",
+        "💰 Proof of funds",
+        "📋 Schengen visa if required"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, limited alcohol and tobacco",
+        "❌ Not allowed: Counterfeit goods",
+        "⚠️ Declare: Cash above €10,000",
+        "🛃 EU customs regulations apply"
+      ],
+      "importantNotes": [
+        "🇱🇺 Luxembourg is part of the Schengen Area",
+        "📅 Tourist stay up to 90 days",
+        "🚆 Public transport is free nationwide",
+        "💉 No mandatory vaccines required"
+      ]
+    },
+    {
+      "country": "Cyprus",
+      "code": "CY",
+      "flag": "🇨🇾",
+      "currency": "Euro (EUR)",
+      "language": "Greek, Turkish",
+      "timezone": "EET (UTC+2/+3)",
+      "plugType": "Type G",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid for duration of stay",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of sufficient funds",
+        "📋 Visa if required"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, limited alcohol and tobacco",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above €10,000",
+        "🛃 Customs inspections possible"
+      ],
+      "importantNotes": [
+        "🇨🇾 Cyprus is an EU member but not part of Schengen",
+        "📅 Tourist stay usually up to 90 days",
+        "🏝 Mediterranean island destination",
+        "💉 No mandatory vaccinations required"
+      ]
+    },
+    {
+      "country": "Albania",
+      "code": "AL",
+      "flag": "🇦🇱",
+      "currency": "Albanian Lek (ALL)",
+      "language": "Albanian",
+      "timezone": "CET (UTC+1/+2)",
+      "plugType": "Type C, F",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid for duration of stay",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of sufficient funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, limited alcohol and tobacco",
+        "❌ Not allowed: Illegal drugs and weapons",
+        "⚠️ Declare: Cash above €10,000",
+        "📵 Export of cultural artifacts restricted"
+      ],
+      "importantNotes": [
+        "🇦🇱 Tourist stay usually up to 90 days",
+        "🏖 Popular Mediterranean beaches",
+        "🚗 Drive on the right side",
+        "💉 No mandatory vaccinations required"
+      ]
+    },
+    {
+      "country": "Montenegro",
+      "code": "ME",
+      "flag": "🇲🇪",
+      "currency": "Euro (EUR)",
+      "language": "Montenegrin",
+      "timezone": "CET (UTC+1/+2)",
+      "plugType": "Type C, F",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid for duration of stay",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation proof",
+        "💰 Proof of sufficient funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, tobacco and alcohol limits",
+        "❌ Not allowed: Drugs and weapons",
+        "⚠️ Declare: Cash above €10,000",
+        "📵 Export of cultural artifacts restricted"
+      ],
+      "importantNotes": [
+        "🇲🇪 Tourist stay usually up to 90 days",
+        "🏖 Adriatic coastline popular for tourism",
+        "📋 Visitor registration required by accommodation providers",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "North Macedonia",
+      "code": "MK",
+      "flag": "🇲🇰",
+      "currency": "Macedonian Denar (MKD)",
+      "language": "Macedonian",
+      "timezone": "CET (UTC+1/+2)",
+      "plugType": "Type C, F",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid for duration of stay",
+        "🎫 Return ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, limited alcohol and tobacco",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above €10,000",
+        "📵 Export of historical artifacts restricted"
+      ],
+      "importantNotes": [
+        "🇲🇰 Tourist stay usually up to 90 days",
+        "🏞 Famous for Lake Ohrid",
+        "🚗 Drive on the right side",
+        "💉 No mandatory vaccinations required"
+      ]
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "code": "BA",
+      "flag": "🇧🇦",
+      "currency": "Bosnia and Herzegovina Convertible Mark (BAM)",
+      "language": "Bosnian, Croatian, Serbian",
+      "timezone": "CET (UTC+1/+2)",
+      "plugType": "Type C, F",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid for duration of stay",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation proof",
+        "💰 Proof of sufficient funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs and weapons",
+        "⚠️ Declare: Cash above €10,000",
+        "📵 Export of cultural artifacts restricted"
+      ],
+      "importantNotes": [
+        "🇧🇦 Tourist stay usually up to 90 days",
+        "🏰 Historic cities like Sarajevo and Mostar",
+        "🚗 Drive on the right side",
+        "💉 No mandatory vaccines required"
+      ]
+    },
+    {
+      "country": "Georgia",
+      "code": "GE",
+      "flag": "🇬🇪",
+      "currency": "Georgian Lari (GEL)",
+      "language": "Georgian",
+      "timezone": "GET (UTC+4)",
+      "plugType": "Type C, F",
+      "voltage": "220V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Valid passport",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, limited alcohol and tobacco",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "📵 Export of cultural artifacts restricted"
+      ],
+      "importantNotes": [
+        "🇬🇪 Tourist stay up to 1 year for many nationalities",
+        "🍷 Famous for ancient wine culture",
+        "🏔 Caucasus mountains popular for hiking",
+        "💉 No mandatory vaccines required"
+      ]
+    },
+    {
+      "country": "Armenia",
+      "code": "AM",
+      "flag": "🇦🇲",
+      "currency": "Armenian Dram (AMD)",
+      "language": "Armenian",
+      "timezone": "AMT (UTC+4)",
+      "plugType": "Type C, F",
+      "voltage": "230V",
+      "visaFree": ["EU", "USA", "UK", "Canada", "Australia"],
+      "visaOnArrival": [],
+      "eVisa": ["Most countries"],
+      "requirements": [
+        "📘 Passport valid for duration of stay",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of sufficient funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "📵 Export of historical artifacts restricted"
+      ],
+      "importantNotes": [
+        "🇦🇲 Tourist stay usually up to 180 days",
+        "⛪ Known for ancient monasteries",
+        "🏔 Mountainous terrain",
+        "💉 No mandatory vaccines required"
+      ]
+    },
+    {
+      "country": "Azerbaijan",
+      "code": "AZ",
+      "flag": "🇦🇿",
+      "currency": "Azerbaijani Manat (AZN)",
+      "language": "Azerbaijani",
+      "timezone": "AZT (UTC+4)",
+      "plugType": "Type C, F",
+      "voltage": "220V",
+      "visaFree": [],
+      "visaOnArrival": [],
+      "eVisa": ["Most countries"],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "💻 e-Visa approval",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation details"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "📵 Export of cultural artifacts restricted"
+      ],
+      "importantNotes": [
+        "🇦🇿 e-Visa available through ASAN system",
+        "📅 Tourist stay usually up to 30 days",
+        "🏙 Baku known for modern skyline",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Kazakhstan",
+      "code": "KZ",
+      "flag": "🇰🇿",
+      "currency": "Kazakhstani Tenge (KZT)",
+      "language": "Kazakh, Russian",
+      "timezone": "Multiple",
+      "plugType": "Type C, F",
+      "voltage": "220V",
+      "visaFree": ["EU", "USA", "UK", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": ["Some countries"],
+      "requirements": [
+        "📘 Valid passport",
+        "🎫 Return ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "📵 Export of historical artifacts restricted"
+      ],
+      "importantNotes": [
+        "🇰🇿 Tourist stay usually up to 30 days visa-free",
+        "🌍 Largest landlocked country in the world",
+        "🏔 Beautiful mountain landscapes",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Uzbekistan",
+      "code": "UZ",
+      "flag": "🇺🇿",
+      "currency": "Uzbekistani Som (UZS)",
+      "language": "Uzbek",
+      "timezone": "UZT (UTC+5)",
+      "plugType": "Type C, F",
+      "voltage": "220V",
+      "visaFree": ["EU", "UK", "Japan", "South Korea"],
+      "visaOnArrival": [],
+      "eVisa": ["Most countries"],
+      "requirements": [
+        "📘 Passport valid for duration of stay",
+        "💻 e-Visa or visa if required",
+        "🎫 Return ticket",
+        "🏨 Accommodation details"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "📵 Export of historical artifacts restricted"
+      ],
+      "importantNotes": [
+        "🇺🇿 Tourist stay usually up to 30 days",
+        "🏛 Famous Silk Road cities like Samarkand",
+        "📋 Registration required for accommodation",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Kyrgyzstan",
+      "code": "KG",
+      "flag": "🇰🇬",
+      "currency": "Kyrgyzstani Som (KGS)",
+      "language": "Kyrgyz, Russian",
+      "timezone": "KGT (UTC+6)",
+      "plugType": "Type C, F",
+      "voltage": "220V",
+      "visaFree": ["EU", "USA", "UK", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Valid passport",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of sufficient funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "📵 Export of historical artifacts restricted"
+      ],
+      "importantNotes": [
+        "🇰🇬 Tourist stay usually up to 60 days visa-free",
+        "🏔 Popular for trekking and mountain tourism",
+        "🏕 Issyk-Kul Lake famous destination",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Tajikistan",
+      "code": "TJ",
+      "flag": "🇹🇯",
+      "currency": "Tajikistani Somoni (TJS)",
+      "language": "Tajik",
+      "timezone": "TJT (UTC+5)",
+      "plugType": "Type C, F",
+      "voltage": "220V",
+      "visaFree": ["Russia", "Kazakhstan"],
+      "visaOnArrival": [],
+      "eVisa": ["USA", "UK", "EU", "Australia", "Canada"],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "💻 e-Visa approval if required",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of sufficient funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, limited alcohol and tobacco",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "📵 Special permit required for GBAO region travel"
+      ],
+      "importantNotes": [
+        "🇹🇯 Tourist stay usually up to 45 days",
+        "🏔 Pamir Highway popular for adventure travel",
+        "📋 Registration required for longer stays",
+        "💉 No mandatory vaccines required"
+      ]
+    },
+    {
+      "country": "Turkmenistan",
+      "code": "TM",
+      "flag": "🇹🇲",
+      "currency": "Turkmenistani Manat (TMT)",
+      "language": "Turkmen",
+      "timezone": "TMT (UTC+5)",
+      "plugType": "Type B, C, F",
+      "voltage": "220V",
+      "visaFree": [],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "📋 Tourist visa arranged through authorized travel agency",
+        "🎫 Return ticket",
+        "🏨 Confirmed tour itinerary",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Political materials, illegal drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "📵 Export of cultural artifacts restricted"
+      ],
+      "importantNotes": [
+        "🇹🇲 Tourist travel usually requires guided tour",
+        "🏜 Famous for Darvaza Gas Crater",
+        "📋 Strict entry regulations",
+        "💉 No mandatory vaccines required"
+      ]
+    },
+    {
+      "country": "Afghanistan",
+      "code": "AF",
+      "flag": "🇦🇫",
+      "currency": "Afghan Afghani (AFN)",
+      "language": "Pashto, Dari",
+      "timezone": "AFT (UTC+4:30)",
+      "plugType": "Type C, F",
+      "voltage": "220V",
+      "visaFree": [],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "📋 Visa required before travel",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Drugs, weapons",
+        "⚠️ Declare: Large cash amounts",
+        "📵 Export of cultural artifacts restricted"
+      ],
+      "importantNotes": [
+        "⚠️ Security conditions unstable",
+        "🇦🇫 Travel advisories issued by many governments",
+        "📋 Special permits may be required",
+        "💉 Vaccinations recommended before travel"
+      ]
+    },
+    {
+      "country": "Pakistan",
+      "code": "PK",
+      "flag": "🇵🇰",
+      "currency": "Pakistani Rupee (PKR)",
+      "language": "Urdu, English",
+      "timezone": "PKT (UTC+5)",
+      "plugType": "Type C, D",
+      "voltage": "230V",
+      "visaFree": [],
+      "visaOnArrival": ["UAE", "Saudi Arabia"],
+      "eVisa": ["USA", "UK", "EU", "Canada", "Australia"],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "💻 e-Visa or visa approval",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, limited tobacco",
+        "❌ Not allowed: Drugs and weapons",
+        "⚠️ Declare: Cash above $10,000",
+        "📵 Export of cultural artifacts restricted"
+      ],
+      "importantNotes": [
+        "🇵🇰 Tourist visa available online",
+        "🏔 Northern Pakistan popular for trekking",
+        "📋 Registration may be required in some areas",
+        "💉 Vaccinations recommended"
+      ]
+    },
+    {
+      "country": "Bangladesh",
+      "code": "BD",
+      "flag": "🇧🇩",
+      "currency": "Bangladeshi Taka (BDT)",
+      "language": "Bengali",
+      "timezone": "BST (UTC+6)",
+      "plugType": "Type C, D, G",
+      "voltage": "220V",
+      "visaFree": [],
+      "visaOnArrival": ["USA", "UK", "EU", "Australia", "Canada"],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "📋 Visa or visa on arrival if eligible",
+        "🎫 Return ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Drugs and weapons",
+        "⚠️ Declare: Cash above $5,000",
+        "📵 Export of cultural artifacts restricted"
+      ],
+      "importantNotes": [
+        "🇧🇩 Tourist visa usually valid up to 30 days",
+        "🏝 Sundarbans mangrove forest famous attraction",
+        "📋 Visa extension possible",
+        "💉 Vaccinations recommended"
+      ]
+    },
+    {
+      "country": "Sri Lanka",
+      "code": "LK",
+      "flag": "🇱🇰",
+      "currency": "Sri Lankan Rupee (LKR)",
+      "language": "Sinhala, Tamil, English",
+      "timezone": "SLST (UTC+5:30)",
+      "plugType": "Type D, G, M",
+      "voltage": "230V",
+      "visaFree": [],
+      "visaOnArrival": [],
+      "eVisa": ["Most countries via ETA"],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "💻 ETA travel authorization",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation confirmation",
+        "💰 Proof of sufficient funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, limited tobacco and alcohol",
+        "❌ Not allowed: Drugs and weapons",
+        "⚠️ Declare: Cash above $15,000",
+        "📵 Export of antiques restricted"
+      ],
+      "importantNotes": [
+        "🇱🇰 Tourist stay usually up to 30 days",
+        "🏝 Famous beaches and tea plantations",
+        "📋 ETA required before arrival",
+        "💉 No mandatory vaccines required"
+      ]
+    },
+    {
+      "country": "Maldives",
+      "code": "MV",
+      "flag": "🇲🇻",
+      "currency": "Maldivian Rufiyaa (MVR)",
+      "language": "Dhivehi",
+      "timezone": "MVT (UTC+5)",
+      "plugType": "Type D, G",
+      "voltage": "230V",
+      "visaFree": ["All countries"],
+      "visaOnArrival": ["All countries"],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "🎫 Return or onward ticket",
+        "🏨 Hotel or resort booking",
+        "💰 Proof of sufficient funds",
+        "📋 Traveller declaration form"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Alcohol import, pork products",
+        "⚠️ Declare: Cash above $10,000",
+        "📵 Religious materials restricted"
+      ],
+      "importantNotes": [
+        "🇲🇻 Free 30-day visa on arrival for all tourists",
+        "🏝 Famous luxury island resorts",
+        "🌊 Strict environmental protection laws",
+        "💉 No mandatory vaccines required"
+      ]
+    },
+    {
+      "country": "Bhutan",
+      "code": "BT",
+      "flag": "🇧🇹",
+      "currency": "Bhutanese Ngultrum (BTN)",
+      "language": "Dzongkha",
+      "timezone": "BTT (UTC+6)",
+      "plugType": "Type C, D, F, G",
+      "voltage": "230V",
+      "visaFree": ["India", "Bangladesh", "Maldives"],
+      "visaOnArrival": [],
+      "eVisa": ["Most countries"],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "💻 Visa approval through tour operator",
+        "🎫 Return ticket",
+        "🏨 Approved travel itinerary",
+        "💰 Sustainable Development Fee payment"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Drugs and tobacco import restrictions",
+        "⚠️ Declare: Cash above $10,000",
+        "📵 Export of antiques restricted"
+      ],
+      "importantNotes": [
+        "🇧🇹 Tourism controlled by government",
+        "🏔 Famous for Himalayan monasteries",
+        "📋 Mandatory travel planning through licensed operators",
+        "💉 No mandatory vaccines required"
+      ]
+    },
+    {
+      "country": "Myanmar",
+      "code": "MM",
+      "flag": "🇲🇲",
+      "currency": "Myanmar Kyat (MMK)",
+      "language": "Burmese",
+      "timezone": "MMT (UTC+6:30)",
+      "plugType": "Type C, D, F, G",
+      "voltage": "230V",
+      "visaFree": ["Thailand", "Singapore"],
+      "visaOnArrival": [],
+      "eVisa": ["USA", "UK", "EU", "Australia", "Canada"],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "💻 e-Visa approval",
+        "🎫 Return ticket",
+        "🏨 Accommodation confirmation",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Drugs and weapons",
+        "⚠️ Declare: Cash above $10,000",
+        "📵 Export of antiques restricted"
+      ],
+      "importantNotes": [
+        "🇲🇲 Tourist stay usually up to 28 days",
+        "⚠️ Some regions restricted to travel",
+        "🏯 Famous temples in Bagan",
+        "💉 Vaccinations recommended"
+      ]
+    },
+    {
+      "country": "Laos",
+      "code": "LA",
+      "flag": "🇱🇦",
+      "currency": "Lao Kip (LAK)",
+      "language": "Lao",
+      "timezone": "ICT (UTC+7)",
+      "plugType": "Type A, B, C, E, F",
+      "voltage": "230V",
+      "visaFree": ["ASEAN countries"],
+      "visaOnArrival": ["USA", "UK", "EU", "Australia", "Canada"],
+      "eVisa": ["Most countries"],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "📋 Visa on arrival or e-Visa",
+        "🎫 Return ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Drugs and weapons",
+        "⚠️ Declare: Cash above $10,000",
+        "📵 Export of antiques restricted"
+      ],
+      "importantNotes": [
+        "🇱🇦 Tourist stay usually up to 30 days",
+        "🏞 Famous for waterfalls and temples",
+        "🚤 Mekong River key transport route",
+        "💉 No mandatory vaccines required"
+      ]
+    },
+    {
+      "country": "Cambodia",
+      "code": "KH",
+      "flag": "🇰🇭",
+      "currency": "Cambodian Riel (KHR)",
+      "language": "Khmer",
+      "timezone": "ICT (UTC+7)",
+      "plugType": "Type A, C, G",
+      "voltage": "230V",
+      "visaFree": ["ASEAN countries"],
+      "visaOnArrival": ["USA", "UK", "EU", "Australia", "Canada", "Japan"],
+      "eVisa": ["Most countries"],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "📸 Passport photo for visa on arrival",
+        "🎫 Return or onward ticket",
+        "🏨 Proof of accommodation",
+        "💰 Visa fee payment (usually $30)"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, limited tobacco and alcohol",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash over $10,000",
+        "🏛 Export of antiquities strictly prohibited"
+      ],
+      "importantNotes": [
+        "🇰🇭 Tourist visa usually valid for 30 days",
+        "🏯 Angkor Wat is the most visited site",
+        "📋 Visa extension possible once",
+        "💉 No mandatory vaccines but Hepatitis A recommended"
+      ]
+    },
+    {
+      "country": "Thailand",
+      "code": "TH",
+      "flag": "🇹🇭",
+      "currency": "Thai Baht (THB)",
+      "language": "Thai",
+      "timezone": "ICT (UTC+7)",
+      "plugType": "Type A, B, C",
+      "voltage": "220V",
+      "visaFree": ["USA", "UK", "EU", "Australia", "Canada", "Japan"],
+      "visaOnArrival": ["India", "China", "Taiwan"],
+      "eVisa": ["India", "China", "Many Asian countries"],
+      "requirements": [
+        "📘 Valid passport (6 months validity)",
+        "🎫 Return or onward ticket",
+        "💰 Cash 10,000 THB per person",
+        "🏨 Proof of accommodation",
+        "📋 Arrival/departure card if required"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, 200 cigarettes, 1 litre alcohol",
+        "❌ Not allowed: Drugs, e-cigarettes, illegal wildlife products",
+        "⚠️ Declare: Cash over $15,000",
+        "🚬 E-cigarettes illegal with heavy penalties"
+      ],
+      "importantNotes": [
+        "🇹🇭 Visa-free stay usually 30 days",
+        "🙏 Dress modestly at temples",
+        "👑 Disrespecting the monarchy is illegal",
+        "💉 No mandatory vaccinations"
+      ]
+    },
+    {
+      "country": "Malaysia",
+      "code": "MY",
+      "flag": "🇲🇾",
+      "currency": "Malaysian Ringgit (MYR)",
+      "language": "Malay",
+      "timezone": "MYT (UTC+8)",
+      "plugType": "Type G",
+      "voltage": "240V",
+      "visaFree": ["USA", "UK", "EU", "Australia", "Canada", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": ["India", "China"],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of funds",
+        "📋 Digital arrival card for some travelers"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, limited tobacco and alcohol",
+        "❌ Not allowed: Drugs (death penalty)",
+        "⚠️ Declare: Cash over $10,000",
+        "📵 Import of obscene materials illegal"
+      ],
+      "importantNotes": [
+        "🇲🇾 Tourist stay usually up to 90 days",
+        "🏝 Famous islands like Langkawi",
+        "⚠️ Drug trafficking carries severe penalties",
+        "💉 No mandatory vaccines required"
+      ]
+    },
+    {
+      "country": "Indonesia",
+      "code": "ID",
+      "flag": "🇮🇩",
+      "currency": "Indonesian Rupiah (IDR)",
+      "language": "Indonesian",
+      "timezone": "Multiple (UTC+7 to UTC+9)",
+      "plugType": "Type C, F",
+      "voltage": "230V",
+      "visaFree": ["ASEAN countries"],
+      "visaOnArrival": ["USA", "UK", "EU", "Australia", "Canada", "Japan"],
+      "eVisa": ["Most countries"],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation details",
+        "💰 Visa on arrival fee if applicable",
+        "📋 Electronic customs declaration"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, limited alcohol",
+        "❌ Not allowed: Drugs (death penalty)",
+        "⚠️ Declare: Cash over $10,000",
+        "📵 Export of endangered wildlife illegal"
+      ],
+      "importantNotes": [
+        "🇮🇩 Visa on arrival usually valid 30 days",
+        "🏝 Bali is the most popular tourist island",
+        "🌋 Active volcanoes across the country",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Vietnam",
+      "code": "VN",
+      "flag": "🇻🇳",
+      "currency": "Vietnamese Dong (VND)",
+      "language": "Vietnamese",
+      "timezone": "ICT (UTC+7)",
+      "plugType": "Type A, C",
+      "voltage": "220V",
+      "visaFree": ["ASEAN countries", "Japan", "South Korea"],
+      "visaOnArrival": [],
+      "eVisa": ["Most countries"],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "💻 e-Visa approval",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Drugs (severe penalties)",
+        "⚠️ Declare: Cash over $5,000",
+        "📵 Export of antiques restricted"
+      ],
+      "importantNotes": [
+        "🇻🇳 Tourist e-Visa usually valid 90 days",
+        "🏝 Ha Long Bay is a UNESCO site",
+        "🚫 Strict drug laws",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Andorra",
+      "code": "AD",
+      "flag": "🇦🇩",
+      "currency": "Euro (EUR)",
+      "language": "Catalan",
+      "timezone": "CET (UTC+1/+2)",
+      "plugType": "Type C, F",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport required",
+        "🎫 Return ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Large amounts of cash",
+        "🛃 Customs controls at French or Spanish borders"
+      ],
+      "importantNotes": [
+        "🇦🇩 Not part of Schengen but accessible via Spain or France",
+        "⛷ Famous ski resorts",
+        "🏔 Small mountain microstate",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Angola",
+      "code": "AO",
+      "flag": "🇦🇴",
+      "currency": "Angolan Kwanza (AOA)",
+      "language": "Portuguese",
+      "timezone": "WAT (UTC+1)",
+      "plugType": "Type C, F",
+      "voltage": "220V",
+      "visaFree": ["Some African countries"],
+      "visaOnArrival": [],
+      "eVisa": ["Many countries"],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "💻 e-Visa approval",
+        "🎫 Return ticket",
+        "🏨 Accommodation proof",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "📵 Export of diamonds regulated"
+      ],
+      "importantNotes": [
+        "🇦🇴 Tourist visa usually valid 30 days",
+        "🌍 Portuguese is official language",
+        "💉 Yellow Fever vaccine required",
+        "⚠️ Infrastructure limited outside major cities"
+      ]
+    },
+    {
+      "country": "Antigua and Barbuda",
+      "code": "AG",
+      "flag": "🇦🇬",
+      "currency": "East Caribbean Dollar (XCD)",
+      "language": "English",
+      "timezone": "AST (UTC-4)",
+      "plugType": "Type A, B",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid for duration of stay",
+        "🎫 Return ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Wildlife export restricted"
+      ],
+      "importantNotes": [
+        "🇦🇬 Tourist stay usually up to 90 days",
+        "🏝 Known for 365 beaches",
+        "💉 No mandatory vaccines",
+        "🚤 Popular cruise destination"
+      ]
+    },
+    {
+      "country": "Bahamas",
+      "code": "BS",
+      "flag": "🇧🇸",
+      "currency": "Bahamian Dollar (BSD)",
+      "language": "English",
+      "timezone": "EST (UTC-5)",
+      "plugType": "Type A, B",
+      "voltage": "120V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid for duration of stay",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation proof",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Drugs and weapons",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Export of marine life restricted"
+      ],
+      "importantNotes": [
+        "🇧🇸 Tourist stay usually up to 90 days",
+        "🏝 Famous for beaches and coral reefs",
+        "🚢 Major cruise tourism destination",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Bahrain",
+      "code": "BH",
+      "flag": "🇧🇭",
+      "currency": "Bahraini Dinar (BHD)",
+      "language": "Arabic",
+      "timezone": "AST (UTC+3)",
+      "plugType": "Type G",
+      "voltage": "230V",
+      "visaFree": ["GCC countries"],
+      "visaOnArrival": ["USA", "UK", "EU", "Canada", "Australia"],
+      "eVisa": ["Most countries"],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "💻 e-Visa or visa on arrival",
+        "🎫 Return ticket",
+        "🏨 Accommodation proof",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "🍺 Alcohol only in licensed places"
+      ],
+      "importantNotes": [
+        "🇧🇭 Tourist visa usually valid up to 14 or 30 days",
+        "🏝 Small island kingdom in the Persian Gulf",
+        "🏎 Famous for Formula 1 Bahrain Grand Prix",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Barbados",
+      "code": "BB",
+      "flag": "🇧🇧",
+      "currency": "Barbadian Dollar (BBD)",
+      "language": "English",
+      "timezone": "AST (UTC-4)",
+      "plugType": "Type A, B",
+      "voltage": "115V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid for duration of stay",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of sufficient funds",
+        "📋 Immigration form on arrival"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, limited alcohol and tobacco",
+        "❌ Not allowed: Illegal drugs and firearms",
+        "⚠️ Declare: Cash over $10,000",
+        "🌿 Export of protected wildlife prohibited"
+      ],
+      "importantNotes": [
+        "🇧🇧 Tourist stay usually up to 90 days",
+        "🏝 Famous Caribbean beaches",
+        "🚢 Major cruise ship destination",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Belarus",
+      "code": "BY",
+      "flag": "🇧🇾",
+      "currency": "Belarusian Ruble (BYN)",
+      "language": "Belarusian, Russian",
+      "timezone": "MSK (UTC+3)",
+      "plugType": "Type C, F",
+      "voltage": "220V",
+      "visaFree": ["Russia", "Some CIS countries"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid for duration of stay",
+        "📋 Visa required for most nationalities",
+        "🎫 Return ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Political materials, illegal drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "📵 Export of cultural artifacts restricted"
+      ],
+      "importantNotes": [
+        "🇧🇾 Visa-free entry possible via Minsk airport for some countries",
+        "⚠️ Political tensions and travel advisories exist",
+        "📋 Registration required for stays over several days",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Belize",
+      "code": "BZ",
+      "flag": "🇧🇿",
+      "currency": "Belize Dollar (BZD)",
+      "language": "English",
+      "timezone": "CST (UTC-6)",
+      "plugType": "Type A, B, G",
+      "voltage": "110V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid for duration of stay",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Drugs and illegal weapons",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Wildlife export regulated"
+      ],
+      "importantNotes": [
+        "🇧🇿 Tourist stay usually up to 30 days",
+        "🏝 Belize Barrier Reef UNESCO site",
+        "🌴 Popular eco-tourism destination",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Benin",
+      "code": "BJ",
+      "flag": "🇧🇯",
+      "currency": "West African CFA Franc (XOF)",
+      "language": "French",
+      "timezone": "WAT (UTC+1)",
+      "plugType": "Type C, E",
+      "voltage": "220V",
+      "visaFree": ["ECOWAS countries"],
+      "visaOnArrival": [],
+      "eVisa": ["Most countries"],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "💻 e-Visa approval",
+        "🎫 Return ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Export of wildlife products restricted"
+      ],
+      "importantNotes": [
+        "🇧🇯 Tourist visa usually valid up to 30 days",
+        "🏛 Known as birthplace of Vodun religion",
+        "💉 Yellow Fever vaccination required",
+        "⚠️ Malaria risk present"
+      ]
+    },
+    {
+      "country": "Bolivia",
+      "code": "BO",
+      "flag": "🇧🇴",
+      "currency": "Bolivian Boliviano (BOB)",
+      "language": "Spanish, Quechua, Aymara",
+      "timezone": "BOT (UTC-4)",
+      "plugType": "Type A, C",
+      "voltage": "230V",
+      "visaFree": ["Most South American countries", "EU"],
+      "visaOnArrival": ["USA", "Canada"],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "🎫 Return ticket",
+        "🏨 Accommodation proof",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "📵 Export of cultural artifacts restricted"
+      ],
+      "importantNotes": [
+        "🇧🇴 Tourist stay usually up to 90 days",
+        "🏔 High altitude cities like La Paz",
+        "💉 Yellow Fever vaccine recommended for jungle areas",
+        "⚠️ Altitude sickness possible"
+      ]
+    },
+    {
+      "country": "Brunei",
+      "code": "BN",
+      "flag": "🇧🇳",
+      "currency": "Brunei Dollar (BND)",
+      "language": "Malay",
+      "timezone": "BNT (UTC+8)",
+      "plugType": "Type G",
+      "voltage": "240V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Alcohol import restrictions",
+        "⚠️ Declare: Cash above $10,000",
+        "📵 Strict Islamic law regulations"
+      ],
+      "importantNotes": [
+        "🇧🇳 Tourist stay usually up to 90 days",
+        "🕌 Islamic law influences daily life",
+        "🌳 Rich rainforest biodiversity",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Burkina Faso",
+      "code": "BF",
+      "flag": "🇧🇫",
+      "currency": "West African CFA Franc (XOF)",
+      "language": "French",
+      "timezone": "GMT (UTC+0)",
+      "plugType": "Type C, E",
+      "voltage": "220V",
+      "visaFree": ["ECOWAS countries"],
+      "visaOnArrival": [],
+      "eVisa": ["Some countries"],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "📋 Visa required",
+        "🎫 Return ticket",
+        "🏨 Accommodation proof",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Drugs and illegal weapons",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Wildlife export restricted"
+      ],
+      "importantNotes": [
+        "⚠️ Security concerns in several regions",
+        "💉 Yellow Fever vaccine required",
+        "🌍 Sahel region climate",
+        "🚫 Some areas restricted for travel"
+      ]
+    },
+    {
+      "country": "Burundi",
+      "code": "BI",
+      "flag": "🇧🇮",
+      "currency": "Burundian Franc (BIF)",
+      "language": "Kirundi, French",
+      "timezone": "CAT (UTC+2)",
+      "plugType": "Type C, E",
+      "voltage": "220V",
+      "visaFree": ["Some African countries"],
+      "visaOnArrival": ["Some nationalities"],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "📋 Visa required",
+        "🎫 Return ticket",
+        "🏨 Accommodation proof",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "📵 Export of artifacts restricted"
+      ],
+      "importantNotes": [
+        "🇧🇮 Tourist visa usually up to 30 days",
+        "🏞 Lake Tanganyika is major attraction",
+        "💉 Yellow Fever vaccination required",
+        "⚠️ Infrastructure limited"
+      ]
+    },
+    {
+      "country": "Cameroon",
+      "code": "CM",
+      "flag": "🇨🇲",
+      "currency": "Central African CFA Franc (XAF)",
+      "language": "French, English",
+      "timezone": "WAT (UTC+1)",
+      "plugType": "Type C, E",
+      "voltage": "220V",
+      "visaFree": ["CEMAC countries"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "📋 Visa required",
+        "🎫 Return ticket",
+        "🏨 Accommodation proof",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Drugs and weapons",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Wildlife export strictly regulated"
+      ],
+      "importantNotes": [
+        "🇨🇲 Known as 'Africa in miniature'",
+        "🌋 Mount Cameroon active volcano",
+        "💉 Yellow Fever vaccine required",
+        "⚠️ Malaria risk present"
+      ]
+    },
+    {
+      "country": "Cape Verde",
+      "code": "CV",
+      "flag": "🇨🇻",
+      "currency": "Cape Verdean Escudo (CVE)",
+      "language": "Portuguese",
+      "timezone": "CVT (UTC-1)",
+      "plugType": "Type C, F",
+      "voltage": "230V",
+      "visaFree": ["EU", "UK"],
+      "visaOnArrival": [],
+      "eVisa": ["Most countries via EASE system"],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "💻 Online pre-registration",
+        "🎫 Return ticket",
+        "🏨 Accommodation proof",
+        "💰 Airport security fee"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Drugs",
+        "⚠️ Declare: Cash above €10,000",
+        "🌿 Wildlife export regulated"
+      ],
+      "importantNotes": [
+        "🇨🇻 Tourist stay usually up to 30 days",
+        "🏝 Atlantic island tourism destination",
+        "🌋 Volcanic landscapes",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Central African Republic",
+      "code": "CF",
+      "flag": "🇨🇫",
+      "currency": "Central African CFA Franc (XAF)",
+      "language": "French, Sango",
+      "timezone": "WAT (UTC+1)",
+      "plugType": "Type C, E",
+      "voltage": "220V",
+      "visaFree": ["CEMAC countries"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "📋 Visa required before arrival",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation confirmation",
+        "💰 Proof of sufficient funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs and weapons",
+        "⚠️ Declare: Cash over $10,000",
+        "🌿 Export of wildlife products restricted"
+      ],
+      "importantNotes": [
+        "⚠️ Security situation unstable in many areas",
+        "💉 Yellow Fever vaccination required",
+        "🚫 Some regions restricted for travel",
+        "🏞 Dzanga-Sangha Reserve known for wildlife"
+      ]
+    },
+    {
+      "country": "Chad",
+      "code": "TD",
+      "flag": "🇹🇩",
+      "currency": "Central African CFA Franc (XAF)",
+      "language": "French, Arabic",
+      "timezone": "WAT (UTC+1)",
+      "plugType": "Type C, D, E, F",
+      "voltage": "220V",
+      "visaFree": ["CEMAC countries"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "📋 Visa required",
+        "🎫 Return ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Wildlife export regulated"
+      ],
+      "importantNotes": [
+        "💉 Yellow Fever vaccination required",
+        "⚠️ Security concerns in several regions",
+        "🏜 Sahara desert covers northern Chad",
+        "📋 Police registration required after arrival"
+      ]
+    },
+    {
+      "country": "Comoros",
+      "code": "KM",
+      "flag": "🇰🇲",
+      "currency": "Comorian Franc (KMF)",
+      "language": "Comorian, French, Arabic",
+      "timezone": "EAT (UTC+3)",
+      "plugType": "Type C, E",
+      "voltage": "220V",
+      "visaFree": [],
+      "visaOnArrival": ["Most countries"],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "📋 Visa on arrival fee",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Drugs and illegal weapons",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Wildlife export restrictions"
+      ],
+      "importantNotes": [
+        "🇰🇲 Tourist visa usually valid up to 45 days",
+        "🏝 Volcanic islands in the Indian Ocean",
+        "💉 Yellow Fever vaccination required if coming from endemic areas",
+        "⚠️ Infrastructure limited outside main towns"
+      ]
+    },
+    {
+      "country": "Congo",
+      "code": "CG",
+      "flag": "🇨🇬",
+      "currency": "Central African CFA Franc (XAF)",
+      "language": "French",
+      "timezone": "WAT (UTC+1)",
+      "plugType": "Type C, E",
+      "voltage": "220V",
+      "visaFree": ["CEMAC countries"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "📋 Visa required",
+        "🎫 Return ticket",
+        "🏨 Accommodation confirmation",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Wildlife export restricted"
+      ],
+      "importantNotes": [
+        "💉 Yellow Fever vaccination required",
+        "🌳 Large areas of rainforest",
+        "📋 Registration may be required after arrival",
+        "⚠️ Infrastructure limited outside cities"
+      ]
+    },
+    {
+      "country": "Democratic Republic of the Congo",
+      "code": "CD",
+      "flag": "🇨🇩",
+      "currency": "Congolese Franc (CDF)",
+      "language": "French",
+      "timezone": "Multiple (UTC+1 to UTC+2)",
+      "plugType": "Type C, D, E",
+      "voltage": "220V",
+      "visaFree": ["Some African countries"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "📋 Visa required before arrival",
+        "🎫 Return ticket",
+        "🏨 Accommodation proof",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Drugs and weapons",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Wildlife export regulated"
+      ],
+      "importantNotes": [
+        "💉 Yellow Fever vaccination required",
+        "⚠️ Security issues in eastern regions",
+        "🦍 Mountain gorillas in Virunga National Park",
+        "🚫 Some regions restricted for travel"
+      ]
+    },
+    {
+      "country": "Costa Rica",
+      "code": "CR",
+      "flag": "🇨🇷",
+      "currency": "Costa Rican Colon (CRC)",
+      "language": "Spanish",
+      "timezone": "CST (UTC-6)",
+      "plugType": "Type A, B",
+      "voltage": "120V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid for duration of stay",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation confirmation",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Wildlife export strictly regulated"
+      ],
+      "importantNotes": [
+        "🇨🇷 Tourist stay usually up to 90 days",
+        "🌴 Famous for eco-tourism and national parks",
+        "🦜 Rich biodiversity",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Cuba",
+      "code": "CU",
+      "flag": "🇨🇺",
+      "currency": "Cuban Peso (CUP)",
+      "language": "Spanish",
+      "timezone": "CST (UTC-5)",
+      "plugType": "Type A, B, C, L",
+      "voltage": "110V / 220V",
+      "visaFree": ["Some Caribbean countries"],
+      "visaOnArrival": [],
+      "eVisa": ["Tourist card required"],
+      "requirements": [
+        "📘 Passport valid for duration of stay",
+        "📋 Tourist card or visa",
+        "🎫 Return ticket",
+        "🏨 Accommodation confirmation",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Drugs and weapons",
+        "⚠️ Declare: Cash above $5,000",
+        "📵 Export of cultural artifacts restricted"
+      ],
+      "importantNotes": [
+        "🇨🇺 Tourist card required for most visitors",
+        "🏝 Known for beaches and classic cars",
+        "💉 Travel insurance required for visitors",
+        "🚫 Internet access limited in some areas"
+      ]
+    },
+    {
+      "country": "Dominican Republic",
+      "code": "DO",
+      "flag": "🇩🇴",
+      "currency": "Dominican Peso (DOP)",
+      "language": "Spanish",
+      "timezone": "AST (UTC-4)",
+      "plugType": "Type A, B",
+      "voltage": "110V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid for duration of stay",
+        "📋 Electronic entry form",
+        "🎫 Return ticket",
+        "🏨 Accommodation confirmation",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Wildlife export restricted"
+      ],
+      "importantNotes": [
+        "🇩🇴 Tourist stay usually up to 30 days",
+        "🏝 Famous resorts in Punta Cana",
+        "🛂 Entry form required online",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Ecuador",
+      "code": "EC",
+      "flag": "🇪🇨",
+      "currency": "US Dollar (USD)",
+      "language": "Spanish",
+      "timezone": "ECT (UTC-5)",
+      "plugType": "Type A, B",
+      "voltage": "120V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "🎫 Return ticket",
+        "🏨 Accommodation proof",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Wildlife export restricted"
+      ],
+      "importantNotes": [
+        "🇪🇨 Tourist stay usually up to 90 days",
+        "🏝 Galápagos Islands famous wildlife destination",
+        "🌋 Active volcanoes in Andes region",
+        "💉 Yellow Fever recommended for Amazon region"
+      ]
+    },
+    {
+      "country": "El Salvador",
+      "code": "SV",
+      "flag": "🇸🇻",
+      "currency": "US Dollar (USD)",
+      "language": "Spanish",
+      "timezone": "CST (UTC-6)",
+      "plugType": "Type A, B",
+      "voltage": "120V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid for duration of stay",
+        "🎫 Return ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Wildlife export regulated"
+      ],
+      "importantNotes": [
+        "🇸🇻 Tourist stay usually up to 90 days",
+        "🌋 Known as the land of volcanoes",
+        "🏄 Popular surfing destination",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Equatorial Guinea",
+      "code": "GQ",
+      "flag": "🇬🇶",
+      "currency": "Central African CFA Franc (XAF)",
+      "language": "Spanish, French, Portuguese",
+      "timezone": "WAT (UTC+1)",
+      "plugType": "Type C, E",
+      "voltage": "220V",
+      "visaFree": ["CEMAC countries"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "📋 Visa required before travel",
+        "🎫 Return or onward ticket",
+        "🏨 Hotel booking or invitation letter",
+        "💰 Proof of sufficient funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, limited alcohol and tobacco",
+        "❌ Not allowed: Illegal drugs and firearms",
+        "⚠️ Declare: Cash over $10,000",
+        "🌿 Export of wildlife and cultural artifacts restricted"
+      ],
+      "importantNotes": [
+        "🇬🇶 Tourist visas usually issued before arrival",
+        "🌴 Bioko Island is the main tourist area",
+        "💉 Yellow Fever vaccination required",
+        "⚠️ Infrastructure limited outside major cities"
+      ]
+    },
+    {
+      "country": "Eritrea",
+      "code": "ER",
+      "flag": "🇪🇷",
+      "currency": "Eritrean Nakfa (ERN)",
+      "language": "Tigrinya, Arabic, English",
+      "timezone": "EAT (UTC+3)",
+      "plugType": "Type C, L",
+      "voltage": "230V",
+      "visaFree": [],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "📋 Visa required before travel",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation confirmation",
+        "💰 Proof of sufficient funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs and weapons",
+        "⚠️ Declare: Cash above $10,000",
+        "📵 Export of antiques or historical items restricted"
+      ],
+      "importantNotes": [
+        "🇪🇷 Travel permits required for areas outside Asmara",
+        "🏛 Asmara is a UNESCO-listed modernist city",
+        "⚠️ Photography restrictions in some areas",
+        "💉 No mandatory vaccines but Yellow Fever required if arriving from endemic countries"
+      ]
+    },
+    {
+      "country": "Eswatini",
+      "code": "SZ",
+      "flag": "🇸🇿",
+      "currency": "Swazi Lilangeni (SZL)",
+      "language": "Swati, English",
+      "timezone": "SAST (UTC+2)",
+      "plugType": "Type M",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid for duration of stay",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of sufficient funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, limited alcohol and tobacco",
+        "❌ Not allowed: Illegal drugs and firearms",
+        "⚠️ Declare: Cash over $10,000",
+        "🌿 Wildlife products regulated"
+      ],
+      "importantNotes": [
+        "🇸🇿 Tourist stay usually up to 30 days",
+        "🏞 Known for wildlife reserves",
+        "🚗 Drive on the left side",
+        "💉 No mandatory vaccines required"
+      ]
+    },
+    {
+      "country": "Fiji",
+      "code": "FJ",
+      "flag": "🇫🇯",
+      "currency": "Fijian Dollar (FJD)",
+      "language": "English, Fijian, Hindi",
+      "timezone": "FJT (UTC+12)",
+      "plugType": "Type I",
+      "voltage": "240V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia", "Japan"],
+      "visaOnArrival": ["Most countries"],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation booking",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above FJD 10,000",
+        "🌿 Strict biosecurity rules for food and plants"
+      ],
+      "importantNotes": [
+        "🇫🇯 Visa-free stay usually up to 4 months",
+        "🏝 Popular South Pacific island destination",
+        "🌊 Coral reefs and diving tourism",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Gabon",
+      "code": "GA",
+      "flag": "🇬🇦",
+      "currency": "Central African CFA Franc (XAF)",
+      "language": "French",
+      "timezone": "WAT (UTC+1)",
+      "plugType": "Type C",
+      "voltage": "220V",
+      "visaFree": ["CEMAC countries"],
+      "visaOnArrival": [],
+      "eVisa": ["Most countries"],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "💻 e-Visa approval",
+        "🎫 Return ticket",
+        "🏨 Accommodation confirmation",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Wildlife export strictly regulated"
+      ],
+      "importantNotes": [
+        "🇬🇦 Tourist visa usually valid 30 days",
+        "🌳 80% of country covered in rainforest",
+        "💉 Yellow Fever vaccination required",
+        "🦍 National parks known for gorillas"
+      ]
+    },
+    {
+      "country": "Gambia",
+      "code": "GM",
+      "flag": "🇬🇲",
+      "currency": "Gambian Dalasi (GMD)",
+      "language": "English",
+      "timezone": "GMT (UTC+0)",
+      "plugType": "Type G",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "EU", "Canada"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "🎫 Return ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Wildlife export restricted"
+      ],
+      "importantNotes": [
+        "🇬🇲 Tourist stay usually up to 90 days",
+        "🏝 Atlantic coastline tourism",
+        "🦜 Popular birdwatching destination",
+        "💉 Yellow Fever vaccine required if arriving from endemic country"
+      ]
+    },
+    {
+      "country": "Guatemala",
+      "code": "GT",
+      "flag": "🇬🇹",
+      "currency": "Guatemalan Quetzal (GTQ)",
+      "language": "Spanish",
+      "timezone": "CST (UTC-6)",
+      "plugType": "Type A, B",
+      "voltage": "120V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid for duration of stay",
+        "🎫 Return ticket",
+        "🏨 Accommodation proof",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs and firearms",
+        "⚠️ Declare: Cash above $10,000",
+        "🏺 Export of Mayan artifacts prohibited"
+      ],
+      "importantNotes": [
+        "🇬🇹 Tourist stay usually up to 90 days",
+        "🏛 Famous Mayan ruins like Tikal",
+        "🌋 Several active volcanoes",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Guinea",
+      "code": "GN",
+      "flag": "🇬🇳",
+      "currency": "Guinean Franc (GNF)",
+      "language": "French",
+      "timezone": "GMT (UTC+0)",
+      "plugType": "Type C, F",
+      "voltage": "220V",
+      "visaFree": ["ECOWAS countries"],
+      "visaOnArrival": [],
+      "eVisa": ["Most countries"],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "💻 e-Visa approval",
+        "🎫 Return ticket",
+        "🏨 Accommodation proof",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Export of wildlife products restricted"
+      ],
+      "importantNotes": [
+        "🇬🇳 Tourist visa usually valid 90 days",
+        "🏞 Fouta Djallon highlands major attraction",
+        "💉 Yellow Fever vaccination required",
+        "⚠️ Infrastructure limited"
+      ]
+    },
+    {
+      "country": "Guinea-Bissau",
+      "code": "GW",
+      "flag": "🇬🇼",
+      "currency": "West African CFA Franc (XOF)",
+      "language": "Portuguese",
+      "timezone": "GMT (UTC+0)",
+      "plugType": "Type C",
+      "voltage": "220V",
+      "visaFree": ["ECOWAS countries"],
+      "visaOnArrival": ["Most countries"],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "📋 Visa or visa on arrival",
+        "🎫 Return ticket",
+        "🏨 Accommodation confirmation",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Wildlife export restricted"
+      ],
+      "importantNotes": [
+        "🇬🇼 Tourist visa usually up to 30 days",
+        "🏝 Bijagos Islands famous nature reserve",
+        "💉 Yellow Fever vaccination required",
+        "⚠️ Infrastructure limited"
+      ]
+    },
+    {
+      "country": "Guyana",
+      "code": "GY",
+      "flag": "🇬🇾",
+      "currency": "Guyanese Dollar (GYD)",
+      "language": "English",
+      "timezone": "GYT (UTC-4)",
+      "plugType": "Type A, B, D, G",
+      "voltage": "120V / 240V",
+      "visaFree": ["USA", "UK", "EU", "Canada"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation proof",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Export of wildlife restricted"
+      ],
+      "importantNotes": [
+        "🇬🇾 Tourist stay usually up to 90 days",
+        "🌳 Vast rainforest and biodiversity",
+        "💧 Kaieteur Falls one of the world's tallest waterfalls",
+        "💉 Yellow Fever recommended for jungle areas"
+      ]
+    },
+    {
+      "country": "Haiti",
+      "code": "HT",
+      "flag": "🇭🇹",
+      "currency": "Haitian Gourde (HTG)",
+      "language": "French, Haitian Creole",
+      "timezone": "EST (UTC-5)",
+      "plugType": "Type A, B, C",
+      "voltage": "110V / 220V",
+      "visaFree": ["USA", "UK", "EU", "Canada"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid for duration of stay",
+        "🎫 Return ticket",
+        "🏨 Accommodation confirmation",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "📵 Export of artifacts restricted"
+      ],
+      "importantNotes": [
+        "🇭🇹 Tourist stay usually up to 90 days",
+        "⚠️ Security concerns in several regions",
+        "🏝 Caribbean island nation",
+        "💉 Vaccinations recommended"
+      ]
+    },
+    {
+      "country": "Honduras",
+      "code": "HN",
+      "flag": "🇭🇳",
+      "currency": "Honduran Lempira (HNL)",
+      "language": "Spanish",
+      "timezone": "CST (UTC-6)",
+      "plugType": "Type A, B",
+      "voltage": "120V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid for duration of stay",
+        "🎫 Return ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs and weapons",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Wildlife export restricted"
+      ],
+      "importantNotes": [
+        "🇭🇳 Tourist stay usually up to 90 days",
+        "🏝 Bay Islands popular diving destination",
+        "🏛 Mayan ruins at Copán",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Iran",
+      "code": "IR",
+      "flag": "🇮🇷",
+      "currency": "Iranian Rial (IRR)",
+      "language": "Persian (Farsi)",
+      "timezone": "IRST (UTC+3:30)",
+      "plugType": "Type C, F",
+      "voltage": "220V",
+      "visaFree": [],
+      "visaOnArrival": ["Some Asian countries"],
+      "eVisa": ["Most countries"],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "💻 e-Visa or embassy visa approval",
+        "🎫 Return or onward ticket",
+        "🏨 Hotel booking or invitation letter",
+        "💰 Proof of sufficient funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Alcohol, illegal drugs",
+        "⚠️ Declare: Cash over $10,000",
+        "📵 Satellite phones and drones restricted"
+      ],
+      "importantNotes": [
+        "🇮🇷 Many nationalities require visa approval before travel",
+        "⚠️ Independent tourism may require licensed tour guide for some nationalities",
+        "🕌 Dress code rules apply in public places",
+        "💉 No mandatory vaccines required"
+      ]
+    },
+    {
+      "country": "Iraq",
+      "code": "IQ",
+      "flag": "🇮🇶",
+      "currency": "Iraqi Dinar (IQD)",
+      "language": "Arabic, Kurdish",
+      "timezone": "AST (UTC+3)",
+      "plugType": "Type C, D, G",
+      "voltage": "230V",
+      "visaFree": [],
+      "visaOnArrival": ["Some countries"],
+      "eVisa": ["Many countries"],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "💻 e-Visa or visa approval",
+        "🎫 Return ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs and weapons",
+        "⚠️ Declare: Cash over $10,000",
+        "📵 Military zones restricted"
+      ],
+      "importantNotes": [
+        "⚠️ Security restrictions in some regions",
+        "🕌 Religious tourism common in Najaf and Karbala",
+        "📋 Travel permits required in some areas",
+        "💉 Vaccinations recommended"
+      ]
+    },
+    {
+      "country": "Israel",
+      "code": "IL",
+      "flag": "🇮🇱",
+      "currency": "Israeli New Shekel (ILS)",
+      "language": "Hebrew, Arabic",
+      "timezone": "IST (UTC+2/+3)",
+      "plugType": "Type C, H",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid for duration of stay",
+        "🎫 Return ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, limited alcohol and tobacco",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash over 50,000 ILS",
+        "📵 Security checks strict at borders"
+      ],
+      "importantNotes": [
+        "🇮🇱 Tourist stay usually up to 90 days",
+        "🛂 Entry stamps usually issued on separate paper card",
+        "⛪ Holy sites attract religious tourism",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Jamaica",
+      "code": "JM",
+      "flag": "🇯🇲",
+      "currency": "Jamaican Dollar (JMD)",
+      "language": "English",
+      "timezone": "EST (UTC-5)",
+      "plugType": "Type A, B",
+      "voltage": "110V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid for duration of stay",
+        "🎫 Return ticket",
+        "🏨 Accommodation confirmation",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Export of protected wildlife restricted"
+      ],
+      "importantNotes": [
+        "🇯🇲 Tourist stay usually up to 90 days",
+        "🏝 Caribbean island tourism",
+        "🎶 Known for reggae music and beaches",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Jordan",
+      "code": "JO",
+      "flag": "🇯🇴",
+      "currency": "Jordanian Dinar (JOD)",
+      "language": "Arabic",
+      "timezone": "AST (UTC+3)",
+      "plugType": "Type C, D, F, G",
+      "voltage": "230V",
+      "visaFree": [],
+      "visaOnArrival": ["Many countries"],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "🎫 Return ticket",
+        "🏨 Accommodation proof",
+        "💰 Proof of funds",
+        "📋 Visa on arrival fee if applicable"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Drugs and weapons",
+        "⚠️ Declare: Cash above $10,000",
+        "📵 Antiquities export restricted"
+      ],
+      "importantNotes": [
+        "🇯🇴 Tourist stay usually up to 30 days",
+        "🏜 Petra is a UNESCO World Heritage Site",
+        "🌊 Dead Sea popular attraction",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Kiribati",
+      "code": "KI",
+      "flag": "🇰🇮",
+      "currency": "Australian Dollar (AUD)",
+      "language": "English, Gilbertese",
+      "timezone": "Multiple (UTC+12 to UTC+14)",
+      "plugType": "Type I",
+      "voltage": "240V",
+      "visaFree": ["USA", "UK", "EU"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "🎫 Return ticket",
+        "🏨 Accommodation confirmation",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Large cash amounts",
+        "🌿 Biosecurity rules for plants and animals"
+      ],
+      "importantNotes": [
+        "🇰🇮 Tourist stay usually up to 30 days",
+        "🏝 Remote Pacific island nation",
+        "🌊 Known for fishing and diving",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Kuwait",
+      "code": "KW",
+      "flag": "🇰🇼",
+      "currency": "Kuwaiti Dinar (KWD)",
+      "language": "Arabic",
+      "timezone": "AST (UTC+3)",
+      "plugType": "Type G",
+      "voltage": "240V",
+      "visaFree": ["GCC countries"],
+      "visaOnArrival": ["USA", "UK", "EU", "Canada", "Australia"],
+      "eVisa": ["Many countries"],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "💻 e-Visa or visa on arrival",
+        "🎫 Return ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Alcohol and drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "📵 Restricted media materials"
+      ],
+      "importantNotes": [
+        "🇰🇼 Tourist visa usually valid up to 90 days",
+        "🏙 Major oil-rich Gulf state",
+        "🕌 Islamic customs important",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Lebanon",
+      "code": "LB",
+      "flag": "🇱🇧",
+      "currency": "Lebanese Pound (LBP)",
+      "language": "Arabic, French",
+      "timezone": "EET (UTC+2/+3)",
+      "plugType": "Type C, D, G",
+      "voltage": "230V",
+      "visaFree": ["Jordan", "Some Arab countries"],
+      "visaOnArrival": ["USA", "UK", "EU", "Canada"],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "🎫 Return ticket",
+        "🏨 Accommodation proof",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above $15,000",
+        "📵 Military sites photography restricted"
+      ],
+      "importantNotes": [
+        "🇱🇧 Tourist stay usually up to 30 days",
+        "🏛 Historic sites like Baalbek",
+        "⚠️ Economic instability in recent years",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Lesotho",
+      "code": "LS",
+      "flag": "🇱🇸",
+      "currency": "Lesotho Loti (LSL)",
+      "language": "Sesotho, English",
+      "timezone": "SAST (UTC+2)",
+      "plugType": "Type M",
+      "voltage": "220V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia"],
+      "visaOnArrival": [],
+      "eVisa": ["Many countries"],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "🎫 Return ticket",
+        "🏨 Accommodation proof",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Wildlife export restricted"
+      ],
+      "importantNotes": [
+        "🇱🇸 Tourist stay usually up to 30 days",
+        "🏔 Known as the Kingdom in the Sky",
+        "🚗 Landlocked by South Africa",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Liberia",
+      "code": "LR",
+      "flag": "🇱🇷",
+      "currency": "Liberian Dollar (LRD)",
+      "language": "English",
+      "timezone": "GMT (UTC+0)",
+      "plugType": "Type A, B, C",
+      "voltage": "120V / 230V",
+      "visaFree": ["ECOWAS countries"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "📋 Visa required before travel",
+        "🎫 Return ticket",
+        "🏨 Accommodation proof",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs and firearms",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Export of wildlife restricted"
+      ],
+      "importantNotes": [
+        "🇱🇷 Tourist visa usually valid up to 30 days",
+        "🌴 Atlantic coastline beaches",
+        "💉 Yellow Fever vaccination required",
+        "⚠️ Limited infrastructure outside Monrovia"
+      ]
+    },
+    {
+      "country": "Libya",
+      "code": "LY",
+      "flag": "🇱🇾",
+      "currency": "Libyan Dinar (LYD)",
+      "language": "Arabic",
+      "timezone": "EET (UTC+2)",
+      "plugType": "Type C, L",
+      "voltage": "230V",
+      "visaFree": [],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "📋 Visa required before travel",
+        "🎫 Return or onward ticket",
+        "🏨 Hotel booking or invitation letter",
+        "💰 Proof of sufficient funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Alcohol, drugs",
+        "⚠️ Declare: Cash over $10,000",
+        "📵 Military areas restricted"
+      ],
+      "importantNotes": [
+        "⚠️ Security situation unstable",
+        "🇱🇾 Travel advisories exist in many regions",
+        "🕌 Islamic laws influence daily life",
+        "💉 No mandatory vaccines but recommended vaccinations"
+      ]
+    },
+    {
+      "country": "Madagascar",
+      "code": "MG",
+      "flag": "🇲🇬",
+      "currency": "Malagasy Ariary (MGA)",
+      "language": "Malagasy, French",
+      "timezone": "EAT (UTC+3)",
+      "plugType": "Type C, E",
+      "voltage": "220V",
+      "visaFree": [],
+      "visaOnArrival": ["Most countries"],
+      "eVisa": ["Most countries"],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "📋 Visa on arrival or e-Visa",
+        "🎫 Return ticket",
+        "🏨 Accommodation confirmation",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Export of wildlife strictly regulated"
+      ],
+      "importantNotes": [
+        "🇲🇬 Tourist visa usually up to 30 or 60 days",
+        "🦎 Unique wildlife like lemurs",
+        "🌴 Tropical island off East Africa",
+        "💉 No mandatory vaccines but Yellow Fever required from endemic areas"
+      ]
+    },
+    {
+      "country": "Malawi",
+      "code": "MW",
+      "flag": "🇲🇼",
+      "currency": "Malawian Kwacha (MWK)",
+      "language": "English, Chichewa",
+      "timezone": "CAT (UTC+2)",
+      "plugType": "Type G",
+      "voltage": "230V",
+      "visaFree": ["SADC countries", "UK"],
+      "visaOnArrival": [],
+      "eVisa": ["Many countries"],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "💻 e-Visa if required",
+        "🎫 Return ticket",
+        "🏨 Accommodation proof",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Drugs and illegal firearms",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Wildlife export restricted"
+      ],
+      "importantNotes": [
+        "🇲🇼 Tourist stay usually up to 30 days",
+        "🌊 Lake Malawi major attraction",
+        "💉 Yellow Fever required if arriving from endemic country",
+        "⚠️ Malaria risk present"
+      ]
+    },
+    {
+      "country": "Mali",
+      "code": "ML",
+      "flag": "🇲🇱",
+      "currency": "West African CFA Franc (XOF)",
+      "language": "French",
+      "timezone": "GMT (UTC+0)",
+      "plugType": "Type C, E",
+      "voltage": "220V",
+      "visaFree": ["ECOWAS countries"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "📋 Visa required",
+        "🎫 Return ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Drugs and weapons",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Wildlife export restricted"
+      ],
+      "importantNotes": [
+        "⚠️ Security issues in several regions",
+        "🏜 Sahara desert covers northern Mali",
+        "💉 Yellow Fever vaccination required",
+        "🚫 Travel restrictions may apply"
+      ]
+    },
+    {
+      "country": "Mauritania",
+      "code": "MR",
+      "flag": "🇲🇷",
+      "currency": "Mauritanian Ouguiya (MRU)",
+      "language": "Arabic",
+      "timezone": "GMT (UTC+0)",
+      "plugType": "Type C",
+      "voltage": "220V",
+      "visaFree": ["Some African countries"],
+      "visaOnArrival": ["Most countries"],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "📋 Visa on arrival if eligible",
+        "🎫 Return ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Alcohol and drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "📵 Export of cultural artifacts restricted"
+      ],
+      "importantNotes": [
+        "🇲🇷 Tourist visa usually up to 30 days",
+        "🏜 Large desert landscapes",
+        "🕌 Islamic customs important",
+        "💉 Yellow Fever vaccine recommended"
+      ]
+    },
+    {
+      "country": "Mauritius",
+      "code": "MU",
+      "flag": "🇲🇺",
+      "currency": "Mauritian Rupee (MUR)",
+      "language": "English, French",
+      "timezone": "MUT (UTC+4)",
+      "plugType": "Type C, G",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia", "Japan"],
+      "visaOnArrival": ["Most countries"],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid for duration of stay",
+        "🎫 Return ticket",
+        "🏨 Accommodation booking",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Strict biosecurity rules"
+      ],
+      "importantNotes": [
+        "🇲🇺 Tourist stay usually up to 90 days",
+        "🏝 Famous tropical island destination",
+        "🌊 Coral reefs and beaches",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Micronesia",
+      "code": "FM",
+      "flag": "🇫🇲",
+      "currency": "US Dollar (USD)",
+      "language": "English",
+      "timezone": "Multiple (UTC+10 to UTC+11)",
+      "plugType": "Type A, B",
+      "voltage": "120V",
+      "visaFree": ["USA", "EU", "UK"],
+      "visaOnArrival": ["Most countries"],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "🎫 Return ticket",
+        "🏨 Accommodation confirmation",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Large cash amounts",
+        "🌿 Biosecurity restrictions"
+      ],
+      "importantNotes": [
+        "🇫🇲 Tourist stay usually up to 30 days",
+        "🏝 Pacific island nation",
+        "🌊 Popular diving destination",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Moldova",
+      "code": "MD",
+      "flag": "🇲🇩",
+      "currency": "Moldovan Leu (MDL)",
+      "language": "Romanian",
+      "timezone": "EET (UTC+2/+3)",
+      "plugType": "Type C, F",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "EU", "Canada"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 3 months",
+        "🎫 Return ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above €10,000",
+        "📵 Export of cultural artifacts restricted"
+      ],
+      "importantNotes": [
+        "🇲🇩 Tourist stay usually up to 90 days",
+        "🍷 Known for large wine cellars",
+        "🌍 Eastern European country",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Morocco",
+      "code": "MA",
+      "flag": "🇲🇦",
+      "currency": "Moroccan Dirham (MAD)",
+      "language": "Arabic, Berber",
+      "timezone": "WET (UTC+0/+1)",
+      "plugType": "Type C, E",
+      "voltage": "220V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid for duration of stay",
+        "🎫 Return ticket",
+        "🏨 Accommodation confirmation",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Drugs and drones without permit",
+        "⚠️ Declare: Cash above $10,000",
+        "📵 Export of cultural artifacts restricted"
+      ],
+      "importantNotes": [
+        "🇲🇦 Tourist stay usually up to 90 days",
+        "🏜 Sahara desert tourism",
+        "🕌 Islamic cultural traditions",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Nepal",
+      "code": "NP",
+      "flag": "🇳🇵",
+      "currency": "Nepalese Rupee (NPR)",
+      "language": "Nepali",
+      "timezone": "NPT (UTC+5:45)",
+      "plugType": "Type C, D, M",
+      "voltage": "230V",
+      "visaFree": ["India"],
+      "visaOnArrival": ["Most countries"],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "📋 Visa on arrival or e-Visa",
+        "🎫 Return ticket",
+        "🏨 Accommodation details",
+        "💰 Visa fee payment"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Drugs",
+        "⚠️ Declare: Cash above $5,000",
+        "📵 Export of antiques restricted"
+      ],
+      "importantNotes": [
+        "🇳🇵 Tourist visa usually up to 90 days",
+        "🏔 Home of Mount Everest",
+        "🥾 Trekking permits required in some regions",
+        "💉 No mandatory vaccines but recommended"
+      ]
+    },
+    {
+      "country": "Philippines",
+      "code": "PH",
+      "flag": "🇵🇭",
+      "currency": "Philippine Peso (PHP)",
+      "language": "Filipino, English",
+      "timezone": "PHT (UTC+8)",
+      "plugType": "Type A, B, C",
+      "voltage": "220V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of sufficient funds",
+        "📋 Electronic arrival card"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, limited alcohol and tobacco",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "📵 Export of cultural artifacts restricted"
+      ],
+      "importantNotes": [
+        "🇵🇭 Tourist stay usually up to 30 days",
+        "🏝 Famous for beaches and islands",
+        "🌋 Many active volcanoes",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Namibia",
+      "code": "NA",
+      "flag": "🇳🇦",
+      "currency": "Namibian Dollar (NAD)",
+      "language": "English",
+      "timezone": "CAT (UTC+2)",
+      "plugType": "Type D, M",
+      "voltage": "220V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia"],
+      "visaOnArrival": [],
+      "eVisa": ["Many countries"],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "💻 e-Visa if required",
+        "🎫 Return ticket",
+        "🏨 Accommodation proof",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs and wildlife products",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Strict wildlife protection laws"
+      ],
+      "importantNotes": [
+        "🇳🇦 Tourist stay usually up to 90 days",
+        "🏜 Namib Desert and Etosha National Park",
+        "🚗 Self-drive tourism popular",
+        "💉 No mandatory vaccines but Yellow Fever required from endemic countries"
+      ]
+    },
+    {
+      "country": "Niger",
+      "code": "NE",
+      "flag": "🇳🇪",
+      "currency": "West African CFA Franc (XOF)",
+      "language": "French",
+      "timezone": "WAT (UTC+1)",
+      "plugType": "Type C, E",
+      "voltage": "220V",
+      "visaFree": ["ECOWAS countries"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "📋 Visa required",
+        "🎫 Return ticket",
+        "🏨 Accommodation proof",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs and weapons",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Wildlife export restricted"
+      ],
+      "importantNotes": [
+        "⚠️ Security issues in several regions",
+        "💉 Yellow Fever vaccination required",
+        "🏜 Sahara desert covers much of the country",
+        "🚫 Travel restrictions may apply"
+      ]
+    },
+    {
+      "country": "Nigeria",
+      "code": "NG",
+      "flag": "🇳🇬",
+      "currency": "Nigerian Naira (NGN)",
+      "language": "English",
+      "timezone": "WAT (UTC+1)",
+      "plugType": "Type D, G",
+      "voltage": "230V",
+      "visaFree": ["ECOWAS countries"],
+      "visaOnArrival": ["Some countries"],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "📋 Visa required before arrival",
+        "🎫 Return ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs and firearms",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Export of wildlife restricted"
+      ],
+      "importantNotes": [
+        "🇳🇬 Tourist visas issued by embassy",
+        "🏙 Largest economy in Africa",
+        "💉 Yellow Fever vaccination required",
+        "⚠️ Security concerns in some regions"
+      ]
+    },
+    {
+      "country": "Panama",
+      "code": "PA",
+      "flag": "🇵🇦",
+      "currency": "Balboa / US Dollar (PAB/USD)",
+      "language": "Spanish",
+      "timezone": "EST (UTC-5)",
+      "plugType": "Type A, B",
+      "voltage": "120V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 3 months",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation proof",
+        "💰 Proof of funds (usually $500)"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Wildlife export restricted"
+      ],
+      "importantNotes": [
+        "🇵🇦 Tourist stay usually up to 90 days",
+        "🚢 Panama Canal major attraction",
+        "🏝 Caribbean and Pacific coastlines",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Papua New Guinea",
+      "code": "PG",
+      "flag": "🇵🇬",
+      "currency": "Papua New Guinean Kina (PGK)",
+      "language": "English, Tok Pisin",
+      "timezone": "PGT (UTC+10)",
+      "plugType": "Type I",
+      "voltage": "240V",
+      "visaFree": [],
+      "visaOnArrival": ["Some countries"],
+      "eVisa": ["Many countries"],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "💻 e-Visa or visa approval",
+        "🎫 Return ticket",
+        "🏨 Accommodation confirmation",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Biosecurity restrictions"
+      ],
+      "importantNotes": [
+        "🇵🇬 Tourist visa usually up to 60 days",
+        "🌴 Remote Pacific island nation",
+        "🦜 Extremely high biodiversity",
+        "💉 Vaccinations recommended"
+      ]
+    },
+    {
+      "country": "Paraguay",
+      "code": "PY",
+      "flag": "🇵🇾",
+      "currency": "Paraguayan Guarani (PYG)",
+      "language": "Spanish, Guarani",
+      "timezone": "PYT (UTC-4)",
+      "plugType": "Type C",
+      "voltage": "220V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "🎫 Return ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Wildlife export restricted"
+      ],
+      "importantNotes": [
+        "🇵🇾 Tourist stay usually up to 90 days",
+        "🌳 Large wetlands and forests",
+        "⚽ Football popular sport",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Qatar",
+      "code": "QA",
+      "flag": "🇶🇦",
+      "currency": "Qatari Riyal (QAR)",
+      "language": "Arabic",
+      "timezone": "AST (UTC+3)",
+      "plugType": "Type G",
+      "voltage": "240V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia", "Japan"],
+      "visaOnArrival": ["Many countries"],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "🎫 Return ticket",
+        "🏨 Hotel booking",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Alcohol import, drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "📵 Restricted media materials"
+      ],
+      "importantNotes": [
+        "🇶🇦 Visa-free entry for many nationalities",
+        "🏙 Doha modern skyline",
+        "🏜 Desert tourism popular",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Russia",
+      "code": "RU",
+      "flag": "🇷🇺",
+      "currency": "Russian Ruble (RUB)",
+      "language": "Russian",
+      "timezone": "Multiple (UTC+2 to UTC+12)",
+      "plugType": "Type C, F",
+      "voltage": "220V",
+      "visaFree": ["Some CIS countries"],
+      "visaOnArrival": [],
+      "eVisa": ["Many countries for certain regions"],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "💻 Visa or e-Visa approval",
+        "🎫 Return ticket",
+        "🏨 Invitation letter or hotel booking",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "📵 Military areas restricted"
+      ],
+      "importantNotes": [
+        "🇷🇺 Tourist visas issued before arrival",
+        "🏙 Moscow and Saint Petersburg main destinations",
+        "📋 Registration required after arrival",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Rwanda",
+      "code": "RW",
+      "flag": "🇷🇼",
+      "currency": "Rwandan Franc (RWF)",
+      "language": "Kinyarwanda, English, French",
+      "timezone": "CAT (UTC+2)",
+      "plugType": "Type C, J",
+      "voltage": "230V",
+      "visaFree": ["African Union countries"],
+      "visaOnArrival": ["Most countries"],
+      "eVisa": ["Most countries"],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "📋 Visa on arrival or e-Visa",
+        "🎫 Return ticket",
+        "🏨 Accommodation confirmation",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Plastic bags and illegal drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Wildlife export restricted"
+      ],
+      "importantNotes": [
+        "🇷🇼 Tourist stay usually up to 30 days",
+        "🦍 Gorilla trekking in Volcanoes National Park",
+        "🚯 Plastic bags banned nationwide",
+        "💉 Yellow Fever vaccine required if arriving from endemic country"
+      ]
+    },
+    {
+      "country": "Saint Kitts and Nevis",
+      "code": "KN",
+      "flag": "🇰🇳",
+      "currency": "East Caribbean Dollar (XCD)",
+      "language": "English",
+      "timezone": "AST (UTC-4)",
+      "plugType": "Type A, B, G",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid for duration of stay",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation confirmation",
+        "💰 Proof of sufficient funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Export of wildlife restricted"
+      ],
+      "importantNotes": [
+        "🇰🇳 Tourist stay usually up to 90 days",
+        "🏝 Caribbean island tourism",
+        "🚢 Cruise ship destination",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Saint Lucia",
+      "code": "LC",
+      "flag": "🇱🇨",
+      "currency": "East Caribbean Dollar (XCD)",
+      "language": "English",
+      "timezone": "AST (UTC-4)",
+      "plugType": "Type G",
+      "voltage": "240V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid for duration of stay",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Export of wildlife restricted"
+      ],
+      "importantNotes": [
+        "🇱🇨 Tourist stay usually up to 90 days",
+        "🏝 Known for the Pitons volcanic peaks",
+        "🌊 Popular honeymoon destination",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Saint Vincent and the Grenadines",
+      "code": "VC",
+      "flag": "🇻🇨",
+      "currency": "East Caribbean Dollar (XCD)",
+      "language": "English",
+      "timezone": "AST (UTC-4)",
+      "plugType": "Type A, B, G",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "EU", "Canada"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid for duration of stay",
+        "🎫 Return ticket",
+        "🏨 Accommodation confirmation",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Wildlife export regulated"
+      ],
+      "importantNotes": [
+        "🇻🇨 Tourist stay usually up to 90 days",
+        "🏝 Caribbean island chain",
+        "🌋 Active volcano La Soufrière",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Samoa",
+      "code": "WS",
+      "flag": "🇼🇸",
+      "currency": "Samoan Tala (WST)",
+      "language": "Samoan, English",
+      "timezone": "WSST (UTC+13)",
+      "plugType": "Type I",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "EU"],
+      "visaOnArrival": ["Most countries"],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "🎫 Return ticket",
+        "🏨 Accommodation confirmation",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Drugs",
+        "⚠️ Declare: Large cash amounts",
+        "🌿 Biosecurity rules apply to food and plants"
+      ],
+      "importantNotes": [
+        "🇼🇸 Tourist stay usually up to 60 days",
+        "🏝 Pacific island nation",
+        "🌊 Known for beaches and waterfalls",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "San Marino",
+      "code": "SM",
+      "flag": "🇸🇲",
+      "currency": "Euro (EUR)",
+      "language": "Italian",
+      "timezone": "CET (UTC+1/+2)",
+      "plugType": "Type C, F, L",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport or EU ID card",
+        "🎫 Return ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above €10,000",
+        "🛃 Customs handled via Italy"
+      ],
+      "importantNotes": [
+        "🇸🇲 Landlocked microstate inside Italy",
+        "🏰 Historic medieval city on Mount Titano",
+        "🇪🇺 Uses euro but not EU member",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Sao Tome and Principe",
+      "code": "ST",
+      "flag": "🇸🇹",
+      "currency": "Sao Tome and Principe Dobra (STN)",
+      "language": "Portuguese",
+      "timezone": "GMT (UTC+0)",
+      "plugType": "Type C, F",
+      "voltage": "220V",
+      "visaFree": ["EU", "USA"],
+      "visaOnArrival": [],
+      "eVisa": ["Many countries"],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "💻 e-Visa if required",
+        "🎫 Return ticket",
+        "🏨 Accommodation confirmation",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Wildlife export restricted"
+      ],
+      "importantNotes": [
+        "🇸🇹 Tourist stay usually up to 30 days",
+        "🏝 Tropical island nation in Gulf of Guinea",
+        "🌴 Known for cocoa plantations",
+        "💉 Yellow Fever vaccine required if arriving from endemic country"
+      ]
+    },
+    {
+      "country": "Saudi Arabia",
+      "code": "SA",
+      "flag": "🇸🇦",
+      "currency": "Saudi Riyal (SAR)",
+      "language": "Arabic",
+      "timezone": "AST (UTC+3)",
+      "plugType": "Type G",
+      "voltage": "230V",
+      "visaFree": ["GCC countries"],
+      "visaOnArrival": ["USA", "UK", "EU", "Canada", "Australia"],
+      "eVisa": ["Most countries"],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "💻 Tourist e-Visa or visa on arrival",
+        "🎫 Return ticket",
+        "🏨 Accommodation booking",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Alcohol, drugs, pork products",
+        "⚠️ Declare: Cash above $16,000",
+        "📵 Religious items restricted for non-Muslim distribution"
+      ],
+      "importantNotes": [
+        "🇸🇦 Tourist e-Visa introduced in 2019",
+        "🕋 Mecca and Medina restricted to Muslims",
+        "🏜 Desert tourism expanding rapidly",
+        "💉 No mandatory vaccines except for Hajj travelers"
+      ]
+    },
+    {
+      "country": "Senegal",
+      "code": "SN",
+      "flag": "🇸🇳",
+      "currency": "West African CFA Franc (XOF)",
+      "language": "French",
+      "timezone": "GMT (UTC+0)",
+      "plugType": "Type C, D, E, K",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "EU", "Canada"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "🎫 Return ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Drugs and weapons",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Wildlife export restricted"
+      ],
+      "importantNotes": [
+        "🇸🇳 Tourist stay usually up to 90 days",
+        "🏝 Atlantic coastline tourism",
+        "🎶 Known for music and culture",
+        "💉 Yellow Fever vaccination required if arriving from endemic areas"
+      ]
+    },
+    {
+      "country": "Seychelles",
+      "code": "SC",
+      "flag": "🇸🇨",
+      "currency": "Seychellois Rupee (SCR)",
+      "language": "English, French, Creole",
+      "timezone": "SCT (UTC+4)",
+      "plugType": "Type G",
+      "voltage": "240V",
+      "visaFree": ["All countries"],
+      "visaOnArrival": ["All countries"],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid for duration of stay",
+        "🎫 Return ticket",
+        "🏨 Accommodation booking",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Strict environmental protection laws"
+      ],
+      "importantNotes": [
+        "🇸🇨 Visitor permit issued on arrival",
+        "🏝 Famous luxury island destination",
+        "🐢 Unique wildlife and marine parks",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Sierra Leone",
+      "code": "SL",
+      "flag": "🇸🇱",
+      "currency": "Sierra Leonean Leone (SLE)",
+      "language": "English",
+      "timezone": "GMT (UTC+0)",
+      "plugType": "Type D, G",
+      "voltage": "230V",
+      "visaFree": ["ECOWAS countries"],
+      "visaOnArrival": [],
+      "eVisa": ["Many countries"],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "💻 e-Visa if required",
+        "🎫 Return ticket",
+        "🏨 Accommodation confirmation",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Drugs and weapons",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Wildlife export restricted"
+      ],
+      "importantNotes": [
+        "🇸🇱 Tourist visa usually up to 30 days",
+        "🏝 Known for beaches and rainforest",
+        "💉 Yellow Fever vaccination required",
+        "⚠️ Malaria risk present"
+      ]
+    },
+    {
+      "country": "Solomon Islands",
+      "code": "SB",
+      "flag": "🇸🇧",
+      "currency": "Solomon Islands Dollar (SBD)",
+      "language": "English",
+      "timezone": "SBT (UTC+11)",
+      "plugType": "Type I",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia", "Japan"],
+      "visaOnArrival": ["Most countries"],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation confirmation",
+        "💰 Proof of sufficient funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above SBD 50,000",
+        "🌿 Biosecurity rules for plants and animals"
+      ],
+      "importantNotes": [
+        "🇸🇧 Tourist stay usually up to 90 days",
+        "🏝 Pacific island nation",
+        "🌊 Popular diving destination",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Somalia",
+      "code": "SO",
+      "flag": "🇸🇴",
+      "currency": "Somali Shilling (SOS)",
+      "language": "Somali, Arabic",
+      "timezone": "EAT (UTC+3)",
+      "plugType": "Type C",
+      "voltage": "220V",
+      "visaFree": [],
+      "visaOnArrival": ["Some countries"],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "📋 Visa required",
+        "🎫 Return ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Alcohol and drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "📵 Military areas restricted"
+      ],
+      "importantNotes": [
+        "⚠️ Security situation unstable",
+        "🚫 Travel restrictions in many areas",
+        "🕌 Islamic customs strongly enforced",
+        "💉 Vaccinations recommended"
+      ]
+    },
+    {
+      "country": "South Sudan",
+      "code": "SS",
+      "flag": "🇸🇸",
+      "currency": "South Sudanese Pound (SSP)",
+      "language": "English",
+      "timezone": "CAT (UTC+2)",
+      "plugType": "Type C, D",
+      "voltage": "230V",
+      "visaFree": ["Some African countries"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "📋 Visa required before arrival",
+        "🎫 Return ticket",
+        "🏨 Accommodation confirmation",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Drugs and weapons",
+        "⚠️ Declare: Cash above $10,000",
+        "📵 Export of cultural artifacts restricted"
+      ],
+      "importantNotes": [
+        "⚠️ Ongoing security concerns",
+        "💉 Yellow Fever vaccination required",
+        "🚫 Travel restrictions may apply",
+        "🏞 Limited tourism infrastructure"
+      ]
+    },
+    {
+      "country": "Sudan",
+      "code": "SD",
+      "flag": "🇸🇩",
+      "currency": "Sudanese Pound (SDG)",
+      "language": "Arabic",
+      "timezone": "CAT (UTC+2)",
+      "plugType": "Type C, D",
+      "voltage": "230V",
+      "visaFree": [],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "📋 Visa required",
+        "🎫 Return ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Alcohol and drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "📵 Photography restrictions in some areas"
+      ],
+      "importantNotes": [
+        "⚠️ Security issues in several regions",
+        "🕌 Islamic law influences public life",
+        "💉 Yellow Fever vaccination required",
+        "🏜 Sahara desert landscapes"
+      ]
+    },
+    {
+      "country": "Suriname",
+      "code": "SR",
+      "flag": "🇸🇷",
+      "currency": "Surinamese Dollar (SRD)",
+      "language": "Dutch",
+      "timezone": "SRT (UTC-3)",
+      "plugType": "Type C, F",
+      "voltage": "127V / 230V",
+      "visaFree": ["EU", "Caribbean countries"],
+      "visaOnArrival": [],
+      "eVisa": ["Many countries"],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "💻 e-Visa or tourist card",
+        "🎫 Return ticket",
+        "🏨 Accommodation confirmation",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Wildlife export regulated"
+      ],
+      "importantNotes": [
+        "🇸🇷 Tourist stay usually up to 90 days",
+        "🌳 Amazon rainforest covers most of the country",
+        "🦜 High biodiversity",
+        "💉 Yellow Fever recommended"
+      ]
+    },
+    {
+      "country": "Syria",
+      "code": "SY",
+      "flag": "🇸🇾",
+      "currency": "Syrian Pound (SYP)",
+      "language": "Arabic",
+      "timezone": "EET (UTC+2/+3)",
+      "plugType": "Type C, E, L",
+      "voltage": "220V",
+      "visaFree": [],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "📋 Visa required before arrival",
+        "🎫 Return ticket",
+        "🏨 Accommodation confirmation",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Drugs and weapons",
+        "⚠️ Declare: Cash above $5,000",
+        "📵 Military sites restricted"
+      ],
+      "importantNotes": [
+        "⚠️ Security conditions unstable",
+        "🚫 Travel restrictions in many regions",
+        "🏛 Historic sites such as Palmyra",
+        "💉 Vaccinations recommended"
+      ]
+    },
+    {
+      "country": "Taiwan",
+      "code": "TW",
+      "flag": "🇹🇼",
+      "currency": "New Taiwan Dollar (TWD)",
+      "language": "Mandarin Chinese",
+      "timezone": "CST (UTC+8)",
+      "plugType": "Type A, B",
+      "voltage": "110V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "🎫 Return ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, limited alcohol and tobacco",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above NT$100,000",
+        "📵 Restricted agricultural imports"
+      ],
+      "importantNotes": [
+        "🇹🇼 Tourist stay usually up to 90 days",
+        "🏙 Taipei is the capital city",
+        "🍜 Famous for night markets and food",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Tanzania",
+      "code": "TZ",
+      "flag": "🇹🇿",
+      "currency": "Tanzanian Shilling (TZS)",
+      "language": "Swahili, English",
+      "timezone": "EAT (UTC+3)",
+      "plugType": "Type D, G",
+      "voltage": "230V",
+      "visaFree": ["Some African countries"],
+      "visaOnArrival": ["Most countries"],
+      "eVisa": ["Most countries"],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "📋 Visa on arrival or e-Visa",
+        "🎫 Return ticket",
+        "🏨 Accommodation proof",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Plastic bags, drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Wildlife export strictly regulated"
+      ],
+      "importantNotes": [
+        "🇹🇿 Tourist stay usually up to 90 days",
+        "🏔 Mount Kilimanjaro highest peak in Africa",
+        "🦁 Serengeti famous for wildlife safaris",
+        "💉 Yellow Fever vaccine required if arriving from endemic country"
+      ]
+    },
+    {
+      "country": "Timor-Leste",
+      "code": "TL",
+      "flag": "🇹🇱",
+      "currency": "US Dollar (USD)",
+      "language": "Tetum, Portuguese",
+      "timezone": "TLT (UTC+9)",
+      "plugType": "Type C, F",
+      "voltage": "220V",
+      "visaFree": ["Some ASEAN countries"],
+      "visaOnArrival": ["Most countries"],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "📋 Visa on arrival",
+        "🎫 Return ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of funds ($100 entry requirement often applied)"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Biosecurity restrictions"
+      ],
+      "importantNotes": [
+        "🇹🇱 Tourist stay usually up to 30 days",
+        "🏝 Southeast Asian island nation",
+        "🌊 Popular diving destination",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Togo",
+      "code": "TG",
+      "flag": "🇹🇬",
+      "currency": "West African CFA Franc (XOF)",
+      "language": "French",
+      "timezone": "GMT (UTC+0)",
+      "plugType": "Type C",
+      "voltage": "220V",
+      "visaFree": ["ECOWAS countries"],
+      "visaOnArrival": [],
+      "eVisa": ["Many countries"],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "💻 e-Visa if required",
+        "🎫 Return ticket",
+        "🏨 Accommodation confirmation",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Drugs and weapons",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Wildlife export restricted"
+      ],
+      "importantNotes": [
+        "🇹🇬 Tourist stay usually up to 30 days",
+        "🏝 Gulf of Guinea coastline",
+        "🏞 Known for markets and cultural festivals",
+        "💉 Yellow Fever vaccination required"
+      ]
+    },
+    {
+      "country": "Tonga",
+      "code": "TO",
+      "flag": "🇹🇴",
+      "currency": "Tongan Paʻanga (TOP)",
+      "language": "Tongan, English",
+      "timezone": "TOT (UTC+13)",
+      "plugType": "Type I",
+      "voltage": "240V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia", "Japan"],
+      "visaOnArrival": ["Many countries"],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation details",
+        "📋 Passenger arrival card"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash over TOP 10,000",
+        "🌿 Biosecurity restrictions on food and plants"
+      ],
+      "importantNotes": [
+        "🇹🇴 Visa-free entry for many nationalities up to about 31 days",
+        "🏝 Polynesian island kingdom",
+        "🌊 Popular diving destination",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Trinidad and Tobago",
+      "code": "TT",
+      "flag": "🇹🇹",
+      "currency": "Trinidad and Tobago Dollar (TTD)",
+      "language": "English",
+      "timezone": "AST (UTC-4)",
+      "plugType": "Type A, B",
+      "voltage": "115V",
+      "visaFree": ["USA", "UK", "EU", "Canada"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid for duration of stay",
+        "🎫 Return ticket",
+        "🏨 Accommodation confirmation",
+        "💰 Proof of sufficient funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, limited alcohol",
+        "❌ Not allowed: Illegal drugs and firearms",
+        "⚠️ Declare: Cash over $10,000",
+        "🌿 Export of wildlife restricted"
+      ],
+      "importantNotes": [
+        "🇹🇹 Tourist stay usually up to 90 days",
+        "🎉 Famous for Carnival festival",
+        "🏝 Caribbean islands with beaches and rainforests",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Tunisia",
+      "code": "TN",
+      "flag": "🇹🇳",
+      "currency": "Tunisian Dinar (TND)",
+      "language": "Arabic",
+      "timezone": "CET (UTC+1)",
+      "plugType": "Type C, E",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid for duration of stay",
+        "🎫 Return ticket",
+        "🏨 Accommodation proof",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "📵 Export of antiquities restricted"
+      ],
+      "importantNotes": [
+        "🇹🇳 Tourist stay usually up to 90 days",
+        "🏜 Sahara desert tours popular",
+        "🏛 Ancient ruins like Carthage",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Tuvalu",
+      "code": "TV",
+      "flag": "🇹🇻",
+      "currency": "Australian Dollar (AUD)",
+      "language": "Tuvaluan, English",
+      "timezone": "TVT (UTC+12)",
+      "plugType": "Type I",
+      "voltage": "240V",
+      "visaFree": ["USA", "UK", "EU"],
+      "visaOnArrival": ["Most countries"],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "🎫 Return ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Drugs",
+        "⚠️ Declare: Large cash amounts",
+        "🌿 Biosecurity restrictions"
+      ],
+      "importantNotes": [
+        "🇹🇻 Tourist stay usually up to 30 days",
+        "🏝 Small Pacific island nation",
+        "🌊 Limited tourism infrastructure",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Uganda",
+      "code": "UG",
+      "flag": "🇺🇬",
+      "currency": "Ugandan Shilling (UGX)",
+      "language": "English, Swahili",
+      "timezone": "EAT (UTC+3)",
+      "plugType": "Type G",
+      "voltage": "240V",
+      "visaFree": ["East African Community countries"],
+      "visaOnArrival": ["Most countries"],
+      "eVisa": ["Most countries"],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "💻 e-Visa or visa on arrival",
+        "🎫 Return ticket",
+        "🏨 Accommodation proof",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Plastic bags and drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Wildlife export restricted"
+      ],
+      "importantNotes": [
+        "🇺🇬 Tourist stay usually up to 90 days",
+        "🦍 Gorilla trekking major attraction",
+        "🏞 Source of the Nile River",
+        "💉 Yellow Fever vaccination required"
+      ]
+    },
+    {
+      "country": "Ukraine",
+      "code": "UA",
+      "flag": "🇺🇦",
+      "currency": "Ukrainian Hryvnia (UAH)",
+      "language": "Ukrainian",
+      "timezone": "EET (UTC+2/+3)",
+      "plugType": "Type C, F",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid for duration of stay",
+        "🎫 Return ticket",
+        "🏨 Accommodation confirmation",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Drugs",
+        "⚠️ Declare: Cash above €10,000",
+        "📵 Military areas restricted"
+      ],
+      "importantNotes": [
+        "🇺🇦 Visa-free stays usually up to 90 days",
+        "⚠️ Ongoing conflict in parts of the country",
+        "🏛 Historic cities like Kyiv and Lviv",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "United Kingdom",
+      "code": "GB",
+      "flag": "🇬🇧",
+      "currency": "British Pound (GBP)",
+      "language": "English",
+      "timezone": "GMT/BST (UTC+0/+1)",
+      "plugType": "Type G",
+      "voltage": "230V",
+      "visaFree": ["USA", "EU", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Valid passport",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Certain foods and illegal drugs",
+        "⚠️ Declare: Cash over £10,000",
+        "🌿 Strict plant and animal import rules"
+      ],
+      "importantNotes": [
+        "🇬🇧 Tourist stay usually up to 6 months",
+        "🔌 Unique UK plug type",
+        "🚗 Drive on the left side",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Uruguay",
+      "code": "UY",
+      "flag": "🇺🇾",
+      "currency": "Uruguayan Peso (UYU)",
+      "language": "Spanish",
+      "timezone": "UYT (UTC-3)",
+      "plugType": "Type C, F, L",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "EU", "Canada"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid for duration of stay",
+        "🎫 Return ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Wildlife export restricted"
+      ],
+      "importantNotes": [
+        "🇺🇾 Tourist stay usually up to 90 days",
+        "🏖 Punta del Este famous beach resort",
+        "🌎 Stable South American country",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Vanuatu",
+      "code": "VU",
+      "flag": "🇻🇺",
+      "currency": "Vanuatu Vatu (VUV)",
+      "language": "Bislama, English, French",
+      "timezone": "VUT (UTC+11)",
+      "plugType": "Type I",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia"],
+      "visaOnArrival": ["Most countries"],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "🎫 Return ticket",
+        "🏨 Accommodation proof",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Biosecurity restrictions"
+      ],
+      "importantNotes": [
+        "🇻🇺 Tourist stay usually up to 90 days",
+        "🌋 Active volcano Mount Yasur",
+        "🏝 Pacific island tourism",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Venezuela",
+      "code": "VE",
+      "flag": "🇻🇪",
+      "currency": "Venezuelan Bolívar (VES)",
+      "language": "Spanish",
+      "timezone": "VET (UTC-4)",
+      "plugType": "Type A, B",
+      "voltage": "120V",
+      "visaFree": ["Most South American countries", "EU"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "🎫 Return ticket",
+        "🏨 Accommodation confirmation",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Drugs and weapons",
+        "⚠️ Declare: Cash above $10,000",
+        "📵 Export of cultural artifacts restricted"
+      ],
+      "importantNotes": [
+        "🇻🇪 Tourist stay usually up to 90 days",
+        "🏞 Angel Falls highest waterfall in the world",
+        "⚠️ Economic and security issues in some areas",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Yemen",
+      "code": "YE",
+      "flag": "🇾🇪",
+      "currency": "Yemeni Rial (YER)",
+      "language": "Arabic",
+      "timezone": "AST (UTC+3)",
+      "plugType": "Type A, D, G",
+      "voltage": "230V",
+      "visaFree": [],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "📋 Visa required before travel",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation confirmation",
+        "💰 Proof of sufficient funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Alcohol, drugs, weapons",
+        "⚠️ Declare: Cash above $10,000",
+        "📵 Military areas and photography restricted"
+      ],
+      "importantNotes": [
+        "⚠️ Security situation unstable across the country",
+        "🚫 Many governments advise against travel",
+        "🕌 Islamic customs strictly followed",
+        "💉 Vaccinations recommended before travel"
+      ]
+    },
+    {
+      "country": "Zambia",
+      "code": "ZM",
+      "flag": "🇿🇲",
+      "currency": "Zambian Kwacha (ZMW)",
+      "language": "English",
+      "timezone": "CAT (UTC+2)",
+      "plugType": "Type C, D, G",
+      "voltage": "230V",
+      "visaFree": ["SADC countries"],
+      "visaOnArrival": ["Most countries"],
+      "eVisa": ["Most countries"],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "📋 Visa on arrival or e-Visa",
+        "🎫 Return ticket",
+        "🏨 Accommodation confirmation",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Drugs and illegal wildlife products",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Wildlife export strictly regulated"
+      ],
+      "importantNotes": [
+        "🇿🇲 Tourist stay usually up to 90 days",
+        "🌊 Victoria Falls located on Zambia–Zimbabwe border",
+        "🦁 Safari tourism popular",
+        "💉 Yellow Fever vaccine required if arriving from endemic countries"
+      ]
+    },
+    {
+      "country": "Zimbabwe",
+      "code": "ZW",
+      "flag": "🇿🇼",
+      "currency": "Zimbabwe Dollar / US Dollar (ZWL/USD)",
+      "language": "English, Shona, Ndebele",
+      "timezone": "CAT (UTC+2)",
+      "plugType": "Type D, G",
+      "voltage": "230V",
+      "visaFree": ["SADC countries"],
+      "visaOnArrival": ["Many countries"],
+      "eVisa": ["Most countries"],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "📋 Visa on arrival or e-Visa",
+        "🎫 Return ticket",
+        "🏨 Accommodation proof",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Drugs and firearms",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Wildlife export restricted"
+      ],
+      "importantNotes": [
+        "🇿🇼 Tourist stay usually up to 30 days",
+        "🌊 Victoria Falls major attraction",
+        "🦓 Safari parks and wildlife reserves",
+        "💉 Yellow Fever required if arriving from endemic country"
+      ]
+    },
+    {
+      "country": "Dominica",
+      "code": "DM",
+      "flag": "🇩🇲",
+      "currency": "East Caribbean Dollar (XCD)",
+      "language": "English",
+      "timezone": "AST (UTC-4)",
+      "plugType": "Type D, G",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid for duration of stay",
+        "🎫 Return ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of sufficient funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Wildlife export regulated"
+      ],
+      "importantNotes": [
+        "🇩🇲 Tourist stay usually up to 90 days",
+        "🌋 Known as the Nature Island of the Caribbean",
+        "🏝 Rainforests and waterfalls",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Grenada",
+      "code": "GD",
+      "flag": "🇬🇩",
+      "currency": "East Caribbean Dollar (XCD)",
+      "language": "English",
+      "timezone": "AST (UTC-4)",
+      "plugType": "Type G",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid for duration of stay",
+        "🎫 Return ticket",
+        "🏨 Accommodation confirmation",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Wildlife export restricted"
+      ],
+      "importantNotes": [
+        "🇬🇩 Tourist stay usually up to 90 days",
+        "🌴 Known as the Spice Island",
+        "🏝 Caribbean beaches and diving",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Kosovo",
+      "code": "XK",
+      "flag": "🇽🇰",
+      "currency": "Euro (EUR)",
+      "language": "Albanian, Serbian",
+      "timezone": "CET (UTC+1/+2)",
+      "plugType": "Type C, F",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "EU", "Canada"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid for duration of stay",
+        "🎫 Return ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above €10,000",
+        "📵 Export of cultural artifacts restricted"
+      ],
+      "importantNotes": [
+        "🇽🇰 Tourist stay usually up to 90 days",
+        "🏔 Balkan country with mountains and historic towns",
+        "🌍 Uses euro despite not being EU member",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Liechtenstein",
+      "code": "LI",
+      "flag": "🇱🇮",
+      "currency": "Swiss Franc (CHF)",
+      "language": "German",
+      "timezone": "CET (UTC+1/+2)",
+      "plugType": "Type J",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport or EU ID card",
+        "🎫 Return ticket",
+        "🏨 Accommodation confirmation",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above CHF 10,000",
+        "🛃 Customs handled via Switzerland"
+      ],
+      "importantNotes": [
+        "🇱🇮 Member of Schengen Area",
+        "🏔 Alpine microstate between Switzerland and Austria",
+        "⛷ Popular for skiing and hiking",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Marshall Islands",
+      "code": "MH",
+      "flag": "🇲🇭",
+      "currency": "US Dollar (USD)",
+      "language": "Marshallese, English",
+      "timezone": "MHT (UTC+12)",
+      "plugType": "Type A, B",
+      "voltage": "120V",
+      "visaFree": ["USA", "EU"],
+      "visaOnArrival": ["Most countries"],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "🎫 Return ticket",
+        "🏨 Accommodation proof",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Large cash amounts",
+        "🌿 Biosecurity restrictions"
+      ],
+      "importantNotes": [
+        "🇲🇭 Tourist stay usually up to 90 days",
+        "🏝 Pacific island nation",
+        "🌊 Known for diving and WWII wrecks",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Monaco",
+      "code": "MC",
+      "flag": "🇲🇨",
+      "currency": "Euro (EUR)",
+      "language": "French",
+      "timezone": "CET (UTC+1/+2)",
+      "plugType": "Type C, E",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport or EU ID card",
+        "🎫 Return ticket",
+        "🏨 Accommodation confirmation",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Drugs",
+        "⚠️ Declare: Cash above €10,000",
+        "🛃 Customs handled via France"
+      ],
+      "importantNotes": [
+        "🇲🇨 Microstate on French Riviera",
+        "🏎 Famous for Monaco Grand Prix",
+        "💎 Known for luxury tourism and casinos",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Mongolia",
+      "code": "MN",
+      "flag": "🇲🇳",
+      "currency": "Mongolian Tögrög (MNT)",
+      "language": "Mongolian",
+      "timezone": "ULAT (UTC+8)",
+      "plugType": "Type C, E",
+      "voltage": "230V",
+      "visaFree": ["USA", "EU", "Canada", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": ["Many countries"],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "💻 e-Visa if required",
+        "🎫 Return ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Drugs",
+        "⚠️ Declare: Cash above $10,000",
+        "📵 Export of antiques restricted"
+      ],
+      "importantNotes": [
+        "🇲🇳 Tourist stay usually up to 30 days",
+        "🏜 Vast steppe landscapes and nomadic culture",
+        "🏇 Famous Naadam festival",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Mozambique",
+      "code": "MZ",
+      "flag": "🇲🇿",
+      "currency": "Mozambican Metical (MZN)",
+      "language": "Portuguese",
+      "timezone": "CAT (UTC+2)",
+      "plugType": "Type C, F, M",
+      "voltage": "220V",
+      "visaFree": ["SADC countries"],
+      "visaOnArrival": ["Many countries"],
+      "eVisa": ["Many countries"],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "📋 Visa on arrival or e-Visa",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation confirmation",
+        "💰 Proof of sufficient funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above $5,000",
+        "🌿 Wildlife export strictly regulated"
+      ],
+      "importantNotes": [
+        "🇲🇿 Tourist stay usually up to 30 days",
+        "🏝 Indian Ocean coastline tourism",
+        "🐠 Famous for diving and marine life",
+        "💉 Yellow Fever vaccine required if arriving from endemic country"
+      ]
+    },
+    {
+      "country": "Nicaragua",
+      "code": "NI",
+      "flag": "🇳🇮",
+      "currency": "Nicaraguan Córdoba (NIO)",
+      "language": "Spanish",
+      "timezone": "CST (UTC-6)",
+      "plugType": "Type A, B",
+      "voltage": "120V",
+      "visaFree": ["USA", "EU", "UK", "Canada"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid for duration of stay",
+        "🎫 Return ticket",
+        "🏨 Accommodation proof",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Drugs and firearms",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Wildlife export restricted"
+      ],
+      "importantNotes": [
+        "🇳🇮 Tourist stay usually up to 90 days",
+        "🌋 Known for volcanoes and lakes",
+        "🏄 Popular surfing destination",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Palau",
+      "code": "PW",
+      "flag": "🇵🇼",
+      "currency": "US Dollar (USD)",
+      "language": "Palauan, English",
+      "timezone": "PWT (UTC+9)",
+      "plugType": "Type A, B",
+      "voltage": "120V",
+      "visaFree": ["USA", "EU", "UK"],
+      "visaOnArrival": ["Most countries"],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "🎫 Return ticket",
+        "🏨 Accommodation details",
+        "💰 Proof of funds",
+        "📋 Environmental pledge signed on arrival"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Large cash amounts",
+        "🌿 Strict environmental protection laws"
+      ],
+      "importantNotes": [
+        "🇵🇼 Tourist stay usually up to 30 days",
+        "🐠 World-class scuba diving destination",
+        "🏝 Micronesian island nation",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Palestine",
+      "code": "PS",
+      "flag": "🇵🇸",
+      "currency": "Israeli Shekel (ILS)",
+      "language": "Arabic",
+      "timezone": "EET (UTC+2/+3)",
+      "plugType": "Type C, H",
+      "voltage": "230V",
+      "visaFree": [],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid for duration of stay",
+        "🎫 Return ticket",
+        "🏨 Accommodation details",
+        "📋 Entry usually through Israel border control"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above Israeli limits",
+        "📵 Security restrictions apply"
+      ],
+      "importantNotes": [
+        "⚠️ Entry controlled through Israel",
+        "🏛 Religious sites in Bethlehem and Jerusalem",
+        "🚫 Movement restrictions may apply",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "North Korea",
+      "code": "KP",
+      "flag": "🇰🇵",
+      "currency": "North Korean Won (KPW)",
+      "language": "Korean",
+      "timezone": "KST (UTC+9)",
+      "plugType": "Type C, F",
+      "voltage": "220V",
+      "visaFree": [],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "📋 Special tourist visa through approved tour operator",
+        "🎫 Return ticket",
+        "🏨 Government-approved itinerary",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Religious materials, political literature",
+        "⚠️ Declare: Electronics and foreign currency",
+        "📵 Strict photography restrictions"
+      ],
+      "importantNotes": [
+        "🇰🇵 Tourism only through approved guided tours",
+        "🚫 Independent travel not allowed",
+        "📵 Strict government regulations",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Nauru",
+      "code": "NR",
+      "flag": "🇳🇷",
+      "currency": "Australian Dollar (AUD)",
+      "language": "Nauruan, English",
+      "timezone": "NRT (UTC+12)",
+      "plugType": "Type I",
+      "voltage": "240V",
+      "visaFree": [],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "📋 Visa required before travel",
+        "🎫 Return ticket",
+        "🏨 Accommodation confirmation",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Large cash amounts",
+        "🌿 Biosecurity restrictions"
+      ],
+      "importantNotes": [
+        "🇳🇷 One of the world's smallest island nations",
+        "🏝 Very limited tourism infrastructure",
+        "✈ Only a few flights weekly",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Oman",
+      "code": "OM",
+      "flag": "🇴🇲",
+      "currency": "Omani Rial (OMR)",
+      "language": "Arabic",
+      "timezone": "GST (UTC+4)",
+      "plugType": "Type G",
+      "voltage": "240V",
+      "visaFree": ["GCC countries"],
+      "visaOnArrival": ["USA", "UK", "EU", "Canada"],
+      "eVisa": ["Most countries"],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "💻 e-Visa or visa on arrival",
+        "🎫 Return ticket",
+        "🏨 Accommodation confirmation",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Drugs and restricted media",
+        "⚠️ Declare: Cash above $10,000",
+        "📵 Drones require special permit"
+      ],
+      "importantNotes": [
+        "🇴🇲 Tourist visa usually up to 30 days",
+        "🏜 Desert tourism and wadis",
+        "🕌 Islamic cultural traditions",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Malta",
+      "code": "MT",
+      "flag": "🇲🇹",
+      "currency": "Euro (EUR)",
+      "language": "Maltese, English",
+      "timezone": "CET (UTC+1/+2)",
+      "plugType": "Type G",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 3 months beyond stay",
+        "🎫 Return ticket",
+        "🏨 Accommodation confirmation",
+        "💰 Proof of funds",
+        "📋 Schengen visa if required"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Counterfeit goods",
+        "⚠️ Declare: Cash above €10,000",
+        "🛃 Schengen customs rules apply"
+      ],
+      "importantNotes": [
+        "🇲🇹 Member of Schengen Area",
+        "🏝 Mediterranean island country",
+        "🏛 Historic sites and fortresses",
+        "💉 No mandatory vaccines"
+      ]
+    },
+    {
+      "country": "Botswana",
+      "code": "BW",
+      "flag": "🇧🇼",
+      "currency": "Botswana Pula (BWP)",
+      "language": "English, Setswana",
+      "timezone": "CAT (UTC+2)",
+      "plugType": "Type D, G, M",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "🎫 Return ticket",
+        "🏨 Accommodation confirmation",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Wildlife products",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Strict animal product regulations"
+      ],
+      "importantNotes": [
+        "🇧🇼 Tourist stay usually up to 90 days",
+        "🦁 Safari tourism in Okavango Delta",
+        "🏜 Kalahari Desert landscapes",
+        "💉 No mandatory vaccines but Yellow Fever required from endemic regions"
+      ]
+    },
+    {
+      "country": "Ethiopia",
+      "code": "ET",
+      "flag": "🇪🇹",
+      "currency": "Ethiopian Birr (ETB)",
+      "language": "Amharic",
+      "timezone": "EAT (UTC+3)",
+      "plugType": "Type C, F",
+      "voltage": "220V",
+      "visaFree": ["Kenya"],
+      "visaOnArrival": ["Many countries"],
+      "eVisa": ["Most countries"],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "💻 e-Visa or visa on arrival",
+        "🎫 Return ticket",
+        "🏨 Accommodation confirmation",
+        "💰 Proof of funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Drugs and illegal wildlife products",
+        "⚠️ Declare: Cash above $10,000",
+        "📵 Export of antiques restricted"
+      ],
+      "importantNotes": [
+        "🇪🇹 Tourist stay usually up to 30 days",
+        "🏛 Ancient historical sites like Lalibela",
+        "🏔 Highlands and unique landscapes",
+        "💉 Yellow Fever required if arriving from endemic country"
+      ]
+    },
+    {
+      "country": "Ghana",
+      "code": "GH",
+      "flag": "🇬🇭",
+      "currency": "Ghanaian Cedi (GHS)",
+      "language": "English",
+      "timezone": "GMT (UTC+0)",
+      "plugType": "Type D, G",
+      "voltage": "230V",
+      "visaFree": ["ECOWAS countries"],
+      "visaOnArrival": [],
+      "eVisa": ["Many countries"],
+      "requirements": [
+        "📘 Passport valid 6 months",
+        "💻 e-Visa or visa from embassy",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation confirmation",
+        "💰 Proof of sufficient funds"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items, limited alcohol and tobacco",
+        "❌ Not allowed: Illegal drugs and weapons",
+        "⚠️ Declare: Cash above $10,000",
+        "🌿 Export of wildlife and cultural artifacts restricted"
+      ],
+      "importantNotes": [
+        "🇬🇭 Tourist stay usually up to 60 days",
+        "🏝 Atlantic coastline and historic forts",
+        "🎶 Known for rich culture and music",
+        "💉 Yellow Fever vaccination required"
+      ]
+    },
+    {
+      "country": "Vatican City",
+      "code": "VA",
+      "flag": "🇻🇦",
+      "currency": "Euro (EUR)",
+      "language": "Italian, Latin",
+      "timezone": "CET (UTC+1/+2)",
+      "plugType": "Type C, F, L",
+      "voltage": "230V",
+      "visaFree": ["USA", "UK", "EU", "Canada", "Australia", "Japan"],
+      "visaOnArrival": [],
+      "eVisa": [],
+      "requirements": [
+        "📘 Passport required for entry into Italy/Schengen",
+        "🎫 Return or onward ticket",
+        "🏨 Accommodation confirmation",
+        "💰 Proof of sufficient funds",
+        "📋 Schengen visa if required"
+      ],
+      "customsRules": [
+        "✅ Allowed: Personal items",
+        "❌ Not allowed: Illegal drugs",
+        "⚠️ Declare: Cash above €10,000",
+        "🛃 Customs handled via Italy"
+      ],
+      "importantNotes": [
+        "🇻🇦 Smallest country in the world",
+        "⛪ Center of the Roman Catholic Church",
+        "🏛 Famous landmarks include St. Peter's Basilica and the Vatican Museums",
+        "💉 No mandatory vaccines"
+      ]
+    }
+  ]
+}
