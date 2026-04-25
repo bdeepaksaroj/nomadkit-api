@@ -10,6 +10,7 @@ import { connectDB } from './lib/mongodb'
 import authRoutes from './routes/auth'
 import countryRoutes from './routes/countries'
 import currencyRoutes from './routes/currency'
+import subscriptionRoutes from './routes/subscription'
 
 const app = express()
 const PORT = process.env.PORT || 5000
@@ -26,6 +27,7 @@ app.use(cookieParser())
 app.use('/api/auth', authRoutes)
 app.use('/api/countries', countryRoutes)
 app.use('/api/currency', currencyRoutes)
+app.use('/api/subscription', subscriptionRoutes)
 
 app.get('/health', (req, res) => {
   res.json({
