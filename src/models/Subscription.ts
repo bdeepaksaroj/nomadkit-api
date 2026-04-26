@@ -11,11 +11,11 @@ const SubscriptionSchema = new Schema({
     required: true,
     unique: true,
   },
-  status: {
-    type: String,
-    enum: ['active', 'cancelled', 'past_due', 'suspended'],
-    default: 'active',
-  },
+plan: {
+  type: String,
+  enum: ['free', 'pro', 'chat'],
+  default: 'free',
+},
   currentPeriodEnd: {
     type: Date,
     required: true,

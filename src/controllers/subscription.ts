@@ -6,7 +6,7 @@ import { getSubscription, cancelSubscription } from '../lib/paypal'
 export async function createSubscription(req: Request, res: Response) {
   try {
     const userId = (req as any).userId
-    const { subscriptionId } = req.body
+    const { subscriptionId, plan } = req.body
 
     if (!subscriptionId) {
       res.status(400).json({ error: 'subscriptionId is required' })
@@ -22,20 +22,22 @@ export async function createSubscription(req: Request, res: Response) {
 
     await connectDB()
 
-    const existing = await Subscription.findOne({ userId })
-    if (existing) {
-      existing.paypalSubId = subscriptionId
-      existing.status = 'active'
-      existing.currentPeriodEnd = new Date(paypalSub.billing_info.next_billing_time)
-      await existing.save()
-    } else {
-      await Subscription.create({
-        userId,
-        paypalSubId: subscriptionId,
-        status: 'active',
-        currentPeriodEnd: new Date(paypalSub.billing_info.next_billing_time),
-      })
-    }
+const existing = await Subscription.findOne({ userId })
+if (existing) {
+  existing.paypalSubId = subscriptionId
+  existing.status = 'active'
+  existing.plan = plan || 'pro'
+  existing.currentPeriodEnd = new Date(paypalSub.billing_info.next_billing_time)
+  await existing.save()
+} else {
+  await Subscription.create({
+    userId,
+    paypalSubId: subscriptionId,
+    status: 'active',
+    plan: plan || 'pro',
+    currentPeriodEnd: new Date(paypalSub.billing_info.next_billing_time),
+  })
+}
 
     res.json({ message: 'Subscription activated successfully' })
   } catch (error) {
